@@ -1,3624 +1,1511 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-    <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="享学课堂VIP课程大纲" >
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="开源框架解析专题" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="Spring5" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="IOC容器及源码解读" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="容器启动及配置类加载流程" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="加载配置类" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="包路径扫描" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="组件添加" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="@ComponentScan自动描述组件" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="@Bean" POSITION="right">
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="Bean的创建、初始化、销毁" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="Bean的后置处理BeanPostProcessor" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="@Configuration配置注解详解" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="@Controller、@Component、@Service、@Repository注解组件详解 " POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="@Conditional、@Primary、@Lazy、@Scope、@Import注解详解" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="ImportSelector选择器" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="FactoryBean" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="工厂模式" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="组件赋值" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="@Value属性赋值及@PropertySource、@PropertySources注解详解" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="@Autowired、@Resources、@Inject区别与联系" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="@Qualifier" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="组件注入" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="构造函数注入" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="方法参数注入" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Aware接口说明" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="后置处理器" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="BeanFactoryPostProcessor" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="BeanDefinetionRegistry" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="声明式事务源码解读" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="事务管理功能开启" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="事务操作实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="事务源码分析实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Spring5容器源码解读" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="BeanFactory初始化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="BeanFactory后置处理器执行" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="各类BeanPostProcessors注册执行" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="MessageSource资源国际化初始化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="事件派发器、监听器初始化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Bean准备创建工作" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Bean完成创建" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="完成容器创建" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP使用与源码分析" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="@EnableAspectJAutoProxy注解" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="切面注解使用解析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP源码解读实战" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP核心类的注册及执行时机分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP代理创建原理及源码剖析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP核心功能之拦截器链-MethodInterceptor解析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="方法压栈及链式调用原则解析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="AOP总结与回顾" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="SpringMVC" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Servlet3.0的注解实现" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="ServletContainerInitializer容器初始化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="ServletRegistration注册" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="FilterRegistration过滤器" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="ServletContext" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="性能实战" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="基于Servlet3.0异步" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Callable异步" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="DeferredResult异步" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="手写SpringMVC实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Mybatis" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="概述" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="为什么要用ORM" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="为什么使用MyBatis" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="MyBatis快速入门" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="进阶" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="MyBatis的配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="映射器的配置" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="基于XML" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="基于注解" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="动态SQL" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="与Spring的集成" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="集成的配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="集成的原理分析" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="缓存" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="关联查询" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="代码生成器" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="高级" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="源码分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="插件开发" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="分页插件使用与源码分析" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="实战" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="快速入门" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="与Spring的集成" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="多对多级联" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="源码分析作业" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="手写一个MyBatis框架" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="团队协作开发专题" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Git" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Git基本工作原理" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="与SVN对比" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="基本运作流程" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Git常用操作及问题处理" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="工程初始化及克隆" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="文件提交" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="分支与常用标签应用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="远程仓库管理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="合并与冲突解决" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="架构师职责：Git Flow必备技能，规范团队Git操作" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="架构师曾踩过的坑经验分享" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Maven" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="安装和配置" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Windows上安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Liunx上安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="目录分析" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="使用入门" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="编写POM" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="编写主代码" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="编写测试代码" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="打包和运行" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="坐标和依赖" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Maven坐标以及详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="依赖的配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="依赖的范围" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="传递性依赖和依赖调解" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="聚合与继承" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="聚合" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="继承" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="聚合与继承的关系" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="约定优于配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="反应堆" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="生命周期与插件" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="clean生命周期" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="default生命周期" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="site生命周期" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="命令行与生命周期" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="插件目标" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="插件绑定" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="插件配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="常用插件" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="仓库" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="本地仓库" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="远程仓库" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="中央仓库" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="快照版本" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="远程仓库的配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="快照版本与镜像" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="版本管理" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="版本号定义约定" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="主干、标签与分支" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="私服－Nexus" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="安装Nexus" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Nexus的仓库与仓库组" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Nexus使用、上传、配置" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Maven实战与手写自己的插件" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="环境搭建" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jekins安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins Tomcat安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins Git安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins Maven安装" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="配置管理" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins管理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置程序作业" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置单元测试" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置自动化测试" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="部署分析" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置邮件通知" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins配置报表" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins代码分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins分布式构建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins自动部署" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="高级进阶" POSITION="left">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins指标与趋势" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins服务器维护" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins持续部署" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins插件管理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins备份" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Jenkins远程测试" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="高性能架构专题" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="分布式架构思维" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="大型互联网架构演进过程" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="架构师应具备的分布式知识" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="主流分布式架构设计详解" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="分布式协调和分流" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="Zookeeper分布式环境指挥官" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="zk的入门" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="会话" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="节点属性" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="节点类型" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="版本" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="监听器机制" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="安全权限" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="单机部署" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="zk的命令" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="zk开发基础" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="原生客户端" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="zkclient" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="curotor" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="zookeeper应用实战" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="配置中心" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="分布式锁" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="集群选举" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="命名服务" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="协议" POSITION="right">
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="2p,3p" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="cap" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="base" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="paxos " POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="zab" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Nginx高并发分流进阶实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="nginx安装" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="常用服务器介绍" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="nginx安装及常见问题" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="目录结构" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="常用命令" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="正反向代理" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="什么是正向代理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="什么是反向代理" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="nginx进程模型" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="模型及基本概念" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="发送信号方式" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="核心配置结构" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="conf配置文件结构" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="main全局配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="http服务器" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="server虚拟主机" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="访问控制 allow/deny" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="location" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="日志配置及切割" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Nginx日志格式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Nginx日志分隔" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="crontab设置作业" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="location规则" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="匹配优先级" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Location规则" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Location解析过程" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="if指令" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="return指令" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="内置变量" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="rewrite的使用" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="URL重写场景" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="rewrite语法格式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="regex 常用正则表达式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="rewrite过程" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="动静分离实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="mvvm模式的交互" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="动静分离的两种方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="伪静态" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="动静分离实例" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="反向代理实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="反向代理的场景" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="基础用法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="负载均衡" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="4种负载方式" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="跨域配置实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="跨域的由来" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="跨域的解决方案" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="cors方案用法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="简单请求与复杂请求" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="缓存配置及Gzip配置实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="静态资源缓存配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="资源压缩配置" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="https配置实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="信息传输安全概念" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="HTTPS简介" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="openssl生成证书" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Nginx.conf配置证书" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="横向拓展带来的问题" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="LVS实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Nginx高可用概述" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Keepalived原理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="配置抢占式模式" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="异步与消息中间件" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="概述" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="什么是消息中间件？和RPC有何区别？" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息中间件使用场景介绍" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息中间件(ActiveMQ、RabbitMQ、RocketMQ、Kafka)简介及对比" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息中间件的编年史" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="ActiveMq消息中间件" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="JMS规范" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="什么是JMS（Java Messaging Service）规范？" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="包含要素" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息类型" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="P2P模型" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Topic(PUB\SUB)模型" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="ActiveMQ使用" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="安装和部署" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="原生ActiveMQ的API编程" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="与Spring集成" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Xml配置方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="SpringBoot" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Request-Response模式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="实战：用户注册的异步处理" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="ActiveMQ高级特性和用法" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="嵌入式MQ" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息存储的持久化机制" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息持久订阅" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的可靠性" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="通配符式分层订阅" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="死信队列DLQ(Dead Letter Queue)" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="镜像队列" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="虚拟主题" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="组合Destinations" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="实战：限时订单" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="企业级高可用集群部署方案" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Shared" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="File System " POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="DB" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Replicated LevelDB Store" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Broker-Cluster" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="RabbitMq消息中间件" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="AMQP规范和RabbitMQ基本概念" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="要素" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="生产者、消费者、消息" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="信道" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="交换器、队列、绑定、路由键" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的确认" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="交换器类型" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Direct" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Fanout" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Topic" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="虚拟主机" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Windows下安装和运行" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Linux下安装与配置" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="下载安装和日常管理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="web监控平台" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="原生Java客户端使用" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息发布时的权衡" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="失败通知" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="发布者确认" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="事务" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="备用交换器" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息消费时的权衡" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的获得方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="QoS预取模式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="可靠性和性能的权衡" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的拒绝" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的拒绝方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="死信交换器" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="控制队列" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="临时队列" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="永久队列" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="队列级别消息过期" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的属性" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="属性列表" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的持久化" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="与Spring集成" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Xml配置方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="SpringBoot" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="实战：应用解耦" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="集群化与镜像队列" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka百万级吞吐实战" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka入门" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka中的基本概念" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息和批次" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="主题和分区" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="生产者和消费者、偏移量、消费者群组" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Broker和集群" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="为什么选择Kafka" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="多生产者和多消费者" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="基于磁盘的数据存储" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="高伸缩性" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="高性能" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="常见场景" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka的安装和配置参数" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="安装" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="运行" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="基本的操作和管理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Broker配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="硬件配置对Kafka性能的影响" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka的集群" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="为何需要Kafka集群" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="如何估算Kafka集群中Broker的数量" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Broker如何加入Kafka集群" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka的生产者和消费者" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="消息的发送和接收" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="生产者和消费者的配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="生产者发送消息的基本流程" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="Kafka生产者高级特性" POSITION="right">
-            <node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="三种发送方式" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="多线程下的生产者" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="更多发送配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="顺序保证  " POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="序列化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分区" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Kafka消费者高级特性" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="消费者群组" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分区再均衡" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="订阅" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="轮询" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="多线程下的消费者" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="消费者配置  " POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="提交和偏移量" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="再均衡监听器" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="独立消费者" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="整合Spring" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Spring和Kafka的整合" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="SpringBoot和Kafka的整合" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="深入理解Kafka" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="控制器" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="复制-Kafka的核心" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="集群的成员关系" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="处理请求的内部机制" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="物理存储原理" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="保证Kafka的可靠数据传递" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Kafka提供的可靠性保证和架构上的权衡" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Broker配置对可靠性的影响" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="复制系数" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="不完全的首领选举" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="最少同步副本" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="大数据初窥门径" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="数据管道基本概念" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="流式处理基本概念" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="流式处理小实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="削峰填谷实战" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存和NoSQL" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis高性能缓存数据库" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis初入门及介绍" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="基本介绍" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="简单安装" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="启动、运行、停止" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Java客户端" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Jedis" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Jedispool" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="手写Jedis实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis常用命令及应用场景" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="set、get、lpush、lrange、hmget、hmset、pipeline" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="String、List、Hash、Set、Zset类型使用场景" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="时间轴、队列应用场景设计" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="购物车开发与设计实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis与Lua模拟抢红包实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="网站投票设计与开发实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="数据一致性" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Lua语言结合开发" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="弱事务体现" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="multi、watch、discard、exec" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis性能优化" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="BenchMark" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Slowlog-more-than" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="slowlog-len" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis主从模式" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="一主一从" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="一主多从、树型主从" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Redis持久化" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="RDB" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="AOF" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="数据恢复与转移实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="哨兵核心机制" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="选举原理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="主观下线" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="客观下线" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Java与哨兵如何工作" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="动手搭建Spring与Redis哨兵模式集成实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="高可用集群" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="槽的介绍" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="键槽关系" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式存储" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="重定向" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="手把手搭建Redis高可用集群" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="JedisCluster" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="JedisCluster+SpringMVC整合" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="动态扩容、缩减集群节点实战" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="MongoDB进阶" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="mongodb入门" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="nosql与sql使用场景分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="基础概念" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="数据库" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="集合" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="索引" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="文档" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="mongodb进阶" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="常用命令" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="快速入门" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="mongodb客户端驱动" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="增删改查与聚合" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="安全控制" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="mongodb高级知识" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="存储引擎" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="索引" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="索引分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="查询优化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="索引的注意事项" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="高可用" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="复制架构解析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分区实战" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="最佳实践与注意事项" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存解决方案实战" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存的概念" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="频率高/变化少" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="命中率" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="绝对过期" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="滑动过期" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="实战编码说法" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="springcache的用法" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="编程式用法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="cache管理器的配置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="cache标签的用法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="标签解析：key生成机制" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="标签解析：带条件缓存" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="标签解析：spel表达式" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存的一致性策略" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存导致的不一致问题" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="实时更新策略" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="准实时更新策略" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="失效机制策略" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="定时任务更新策略" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存雪崩方案" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="什么是缓存雪崩" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="雪崩的预防" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="雪崩后限流" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存穿透方案" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="击穿的概念" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="缓存空数据" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="布隆过滤器" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="高可靠数据存储" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mysql高性能存储实战" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mysql" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mysql主从复制、读写分离高可用方案实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mysql+Keepalived实现双主高可用方案实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mysql实现分库分表高性能解决方案实战" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mycat" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Mycat简介及用途" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="基于Mycat实现Mysql读写分离实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="基于Mycat实现数据库切分实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="全局表、ER表、分片机制分析" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="FastDFS分布式文件存储实战" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="文件存储实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="文件同步实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="文件查询实战" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式部署实战" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式常见场景解决方案实战" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="事务概念" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="事务与锁" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式事务产生背景" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="X/OpenDTP事务模型" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="标准分布式事务" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式事务解决方案" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="两阶段提交" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="BASE理论与柔性事务" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="TCC方案" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="补偿性方案" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="异步确保型与最大努力型" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="单点登陆方案" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="单点登陆的问题背景" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="页面跨域问题" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Session跨域共享方案" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="session的扩展" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式任务调度方案" POSITION="right">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Quartz调度的用法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Elastic-Job示例" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式调度的疑难点" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Quartz集群定制化分布式调度" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="微服务架构专题" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="RPC原理" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="RMI的实现" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="原理" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="服务注册与发布" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="动态代理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="序列化与反射" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="手写RPC框架" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="Dubbo应用及源码解读" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo简介" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="分布式中rpc调用的痛点" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo主要解决哪些rpc问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo涉及的概念" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo的部署安装" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo的配置使用" POSITION="left">
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="xml方式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="注解方式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="api方式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo中各元素属性学习" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo在项目的用法" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="类与类的依赖关系说明" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="项目之间的依赖划分" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="实战拆解分布式" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo源码解析与示例" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo的模块及层级" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo的初始化过程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo的服务暴露" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo的服务引用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="dubbo的服务拦截" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="服务的注册与发现" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="SpringBoot底层探析" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="SpringBoot快速入门" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="SpringBoot与微服务之间的关系" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="环境搭建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="集成springmvc" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="集成mybatis" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="整合日志" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="集成jsp" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="全局异常捕获" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="打包部署" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="热部署" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="集成Swagger2构建API管理体系" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="进阶" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="核心组件" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="starter" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="actuator" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="auto-configuration" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="cli" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="性能优化" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="jvm参数" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="扫包优化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="undertow容器" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="jta+atomikos分布式事务" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="SpringBoot核心原理实战" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="@SpringBootApplication源码解读" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="纯手写打造SpringBoot雏形" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="框架整合业务逻辑层" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="整合jsp视图" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="内置集成tomcat" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="SpringCloud高级进阶" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Zuul路由网关详解及源码探析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Ribbon客户端负载均衡原理与算法详解，与服务端负载均衡区别" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Feign声明式服务调用方式实现" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Hystrix服务熔断及服务降级实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Eureka注册中心构件分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Config配置服务中心与svn、git快速集成" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="BUS消息总线技术" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Sleuth调用链路跟踪" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Stream 消息驱动的微服务" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker虚拟化技术" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker介绍、安装与使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker组成" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="镜像" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="容器" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="私有仓库" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker Compose部署脚本" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker Service 服务编排" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker Redis分布式集群部署" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker File构建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="通过Maven插件打包Docker镜像" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Docker部署及运行应用程序" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Kubernetes编配" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="基于Docker构建Mysql集群实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="高可用SpringCloud微服务与Docker集成实现动态扩容实战" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="B2C商城项目实战" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="系统设计" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="架构设计" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="数据库设计" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="部署设计" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="基础开发框架讲解" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="用户管理子系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="用户注册 登录（二维码技术）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="权限控制（shiro）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="单点登录（session统一缓存、sso）" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="商品管理子系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="商品管理（mongodb）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="商品分类（mongodb）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="商品发布（nosql与mysql数据同步）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="热卖商品排行（redis）" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="搜索子系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="基于ElasticSearch搜索引擎的全文检索" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="检索需求分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="检索策略" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="索引设置" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="分词算法" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="命中率优化" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="订单实时统计" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="订单子系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="分布式环境生成唯一编号（ZooKeeper）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="下单业务流程（消息中间件）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="订单可靠性" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="秒杀功能（Redis）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="订单管理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="购物车功能（MongoDB）" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="支付系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="微信支付对接" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="支付宝对接" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="银联对接开发" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="分布式调度系统 " POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="数据统计" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="数据同步" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="任务调度配置" POSITION="right">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="后台系统" POSITION="right">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="日常管理" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="在线IM系统 （WebSocket NIO）" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="用户行为分析" POSITION="right">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="报表大数据查询优化" POSITION="right">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="架构师筑基专题" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="扎实Java基础" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="并发编程进阶" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="1、线程基础、线程" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="之间的共享和协作" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="基础概念" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CPU核心数，线程数" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CPU时间片轮转机制" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="什么是进程和线程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="什么是并行和并发" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="高并发编程的意义、好处和注意事项" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="启动和终止线程" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="三种启动线程的方式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="理解中断" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="如何安全的终止线程" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程再认识" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程常用方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程的状态" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程的优先级" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Demon线程" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程间的共享" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="synchronized" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="对象锁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="类锁" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="volatile" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="ThreadLocal" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="线程间协作" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Wait,Notify/NotifyAll" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="等待和通知的标准范式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="notify和notifyAll应该用谁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Join方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="调用yield() 、sleep()、wait()、notify()等方法对锁有何影响？" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="2、线程的并发工具类" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Fork/Join" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="什么是分而治之？" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="工作密取" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="使用的标准范式" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CountDownLatch作用、应用场景和实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CyclicBarrier作用、应用场景和实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CountDownLatch和CyclicBarrier辨析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Semaphore作用、应用场景和实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Exchange作用、应用场景和实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Callable、Future和FutureTask" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="3、原子操作CAS" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CAS的原理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="CAS的问题" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="ABA问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="开销" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="只能保证一个共享变量的原子操作" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="原子操作类的使用" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="基本类型" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="数组" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="引用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="带版本戳" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="4、显式锁和AQS" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="显式锁" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Lock接口、核心方法和使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Lock接口和synchronized的比较" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="ReentrantLock可重入锁与锁的公平和非公平" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="ReentrantReadWriteLock使用场景" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="Condition用法" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="LockSupport工具进阶" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="AbstractQueuedSynchronizer实现及源码分析" POSITION="left">
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="什么是AQS？学习它的必要" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="AQS使用方式和其中的设计模式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="了解其中的方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="实现一个自己的独占锁 " POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="AQS中的数据结构" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="节点在同步队列中的增加和移出" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="独占式同步状态获取与释放" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="共享式同步状态获取与释放" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Condition分析" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="等待队列" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="await方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="signal方法" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="深入源码" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="了解ReentrantLock的实现" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="锁的可重入" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="公平和非公平锁" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="了解ReentrantReadWriteLock的实现" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="5、并发容器" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="ConcurrentHashMap" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="实现" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="基本思想" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="预备知识" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Hash" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="位运算" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="jdk1.7" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="构造方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="如何定位" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="get方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="put方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="扩容" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="jdk1.8" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="构造方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="如何定位" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="get方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="put方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="扩容" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="其他并发容器" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="ConcurrentSkipListMap等" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="了解什么是SkipList" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="ConcurrentLinkedQueue  " POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="写时复制容器" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="阻塞队列" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="概念" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="生产者消费者模式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="常用方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="常用阻塞队列辨析" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·ArrayBlockingQueue：一个由数组结构组成的有界阻塞队列。" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·LinkedBlockingQueue：一个由链表结构组成的有界阻塞队列。" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·PriorityBlockingQueue：一个支持优先级排序的无界阻塞队列。" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·DelayQueue：一个使用优先级队列实现的无界阻塞队列。" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·SynchronousQueue：一个不存储元素的阻塞队列。" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·LinkedTransferQueue：一个由链表结构组成的无界阻塞队列。" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="·LinkedBlockingDeque：一个由链表结构组成的双向阻塞队列。" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="延时队列实战" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="阻塞队列实现原理" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="6、线程池" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="什么是线程池？为什么要用线程池？" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="实现一个我们自己的线程池" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="JDK中的线程池" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="线程池的创建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="提交任务" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="关闭线程池" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="线程池工作机制" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="合理配置线程池" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="系统为我们预定义的线程池" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="FixedThreadPool
-SingleThreadExecutor
-CachedThreadPool
-WorkStealingPool" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="含义" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="使用场景" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="ScheduledThreadPoolExecutor" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="含义" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="使用场景" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="内部方法辨析" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Executor框架" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="CompletionService" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="优点" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="7、并发安全" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="类的线程安全" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="如何做到类的线程安全" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="无状态" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="让类不可变" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="更多......" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="线程不安全引发的问题" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="死锁" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="原因" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="表现" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="检测和解决" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="活锁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="多线程程序" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="性能和思考" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="影响性能的因素" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="减少锁的竞争" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="线程安全的单例模式" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="如何让双重检查锁定安全" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="懒汉式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="饿汉式" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="8、实战项目" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="并发任务执行框架" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="需求的产生和分析 " POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="需要做什么" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="封装多线程，屏蔽细节" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="保存任务的上下文" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="自动清除已完成和过期任务" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="具体实现" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="可查询进度的并发任务执行框架" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="应用性能优化实战" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="项目简介" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="项目分析，为何优化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="分析和改进" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="架构改进" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="单服务改进" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="如何继续改进" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="带来的启示" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="9、JMM和底层实现原理" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="现代计算机物理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="上的内存模型" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="概念" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="带来的问题" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Java内存模型" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="（JMM）" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="JVM对Java内存" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="模型的实现" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="带来的问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="重排序" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="类型" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="依赖性" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="as-if-serial" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="重排序带来的问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="内存屏障" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="临界区" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Happens-Before" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="定义" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="规则" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="volatile的内存语义" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="概念和深入理解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="内存语义的实现" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="重排序规则" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="内存屏障插入策略" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="锁的内存语义" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="final的内存语义" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="volatile的实现原理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="synchronized的实现原理" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="JVM性能调优" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="1、Java内存区域" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="虚拟机的历史" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="未来的Java技术一览" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="运行时数据区域" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="程序计数器" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="栈" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="堆" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="方法区" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="运行时常量池" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="各个版本内存区域的变化" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="1.6" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="1.7" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="1.8" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="直接内存" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="站在线程角度来看堆和栈" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="深入辨析堆和栈" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="方法的出入栈" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="栈桢" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="栈上分配" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="虚拟机中的对象" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="分配过程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="内存布局" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="对象的访问定位" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="堆参数设置和内存溢出实战" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="Java堆溢出" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="新生代配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="方法区和运行时常量池溢出" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="虚拟机栈和本地方法栈溢出" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="本机直接内存溢出" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="2、垃圾回收器和内存分配策略" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="GC概述" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="判断对象的存活" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="辨析强、弱等各种引用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="GC算法" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="标记-清除算法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="复制算法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="标记-整理算法" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="分代收集" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="垃圾回收器" POSITION="left">
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="垃圾回收器概览" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="垃圾回收器工作详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="G1详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="未来的垃圾回收" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Stop The World现象" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="GC日志解读" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="内存分配与回收策略" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="内存泄漏和内存溢出辨析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="JDK为我们提供的工具" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="了解MAT" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="3、JVM的执行子系统" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Class类文件本质" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Class文件格式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="字节码指令" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="类加载机制" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="加载过程详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="类加载器" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="自定义类加载对类进行加密和解密" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="系统的类加载器" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="双亲委派模型" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Tomcat类加载机制" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="栈桢详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="方法调用详解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="基于栈的字节码解释执行引擎" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="基于栈的指令集与基于寄存器的指令集" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="分析代码在虚拟机中的执行情况" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="4、编写高效优雅Java程序" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="构造器参数太多怎么办？" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="不需要实例化的类应该构造器私有" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="不要创建不必要的对象" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="避免使用终结方法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="使类和成员的可访问性最小化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="使可变性最小化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="优先使用复合" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="接口优于抽象类" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="可变参数要谨慎使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="返回零长度的数组或集合，不要返回null" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="优先使用标准的异常" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="用枚举代替int常量" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="将局部变量的作用域最小化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="精确计算，避免使用float和double" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="当心字符串连接的性能" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="5、深入了解性能优化" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="常用的性能评价/测试指标" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="响应时间" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="并发数" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="吞吐量" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="相互之间的关系" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="常用的性能优化手段" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="总原则" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="前端优化手段" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="应用服务性能优化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="存储性能优化" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="详细了解应用服务性能优化" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="缓存" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="缓存的基本原理和本质" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="合理使用缓冲的准则" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="分布式缓存与一致性哈希" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="集群" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="异步" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="同步和异步，阻塞和非阻塞" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="常见异步的手段" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="应用相关" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="代码级别" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="并发编程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="资源的复用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="JVM" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="与JIT编译器相关的优化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="GC调优" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="JVM调优实战" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="网络编程与高效IO" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="网络协议" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="网络模型" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="OSI七层模型" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="TCP/IP模型" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="TCP" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="三次握手" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="四次挥手" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="缓冲区/滑动窗口" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="UDP" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="DatagramSocket" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="DatagramPacket" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="HTTP" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="HTTP 协议报文结构" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="一次完整http请求的7个过程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="HTTP请求的传输过程" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="原生JDK网络编程" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="BIO编程" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="ServerSocket" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Socket" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="NIO编程" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Reactor模式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="NIO重要概念" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Buffer辨析" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="1、Netty应用" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Netty是什么？为什么要用Netty？" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="第一个Netty程序" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Netty核心组件初步了解" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Hello，Netty" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Netty组件再了解" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Channel、EventLoop 和ChannelFuture" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="ChannelHandler 和ChannelPipeline" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="内置通信传输模式" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="ByteBuf" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="解决粘包，半包问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="编解码器框架" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="实现基于Netty的Web服务器" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="序列化问题" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="单元测试" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="2、Netty进阶和实战" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="实现UDP通信" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="实现UDP通信" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="单播" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="广播" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="服务器推送技术" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="短轮询" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Comet" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Servlet异步任务" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="服务器推模型SSE" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="WebSocket通信" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="概念和原理" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="微信风格基于" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="STOMP的SpringBoot" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="群聊" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="一对一聊天" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="SpringBoot和WebSocket的集成" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="基于Netty" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="实现自己的通信框架" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="基于Netty的NIO通信框架" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="提供高性能的异步通信能力" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="实现POJO的序列化和反序列化" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="基于IP地址的白名单接入认证机制" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="链路的有效性校验机制" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="链路的断连重连机制" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="3、Netty源码分析" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="引导过程分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="EventLoop和EventLoopGroup分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="服务端接收连接事件分析OP_ACCEPT" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="分析读事件OP_READ" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="分析写数据和处理写事件OP_WRITE" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="分析客户端连接和连接事件OP_CONNECT" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Tomcat系统进阶" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="1，目录结构" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="配置文件" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="server.xml" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="web.xml" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="context.xml" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="catalina.policy" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="lib" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="tomcat-xxx.jar" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="servlet.jar" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="logs" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="localhost-xxx.log" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="catalina-xxx.log" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="webapps" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="显式部署" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="添加context元素" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="创建xml文件" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="隐式部署" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="2，容器" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Engine" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Pipeline" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="AccessLog" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Realm" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="3，Jasper解析器" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="4，Connector连接器" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Endpoint" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Processor" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="CoyoteAdapter" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Mapper" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="5，线程模型" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="阻塞式(BIO)" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="非阻塞式(NIO)" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="6，源码解读" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="源码环境搭建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="源码架构分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="核心组件分析" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="源码调试" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="调试启动流程" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="调试生命周期的管理" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="7，嵌入式Tomcat" POSITION="left">
-            <node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Tomcat的API" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Tomcat的Maven插件" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="手写嵌入式Tomcat" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="8，Tomcat优化实战" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Mysql深度优化" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="1，Mysql逻辑架构入门介绍" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="2，存储引擎" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="MyISAM" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Innodb" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Archive" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Memory" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Federated" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="3，业务设计" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="锁" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="什么是锁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="共享锁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="排它锁" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="存储引擎" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="InnoDB" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="MyISAM" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="逻辑结构修改" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="锁表" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="解决办法" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="解决思路" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="pt-online-schema-change" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="事务" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="什么叫事务" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="特性" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="原子性" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="一致性" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="隔离性" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="持久性" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="隔离性级别" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="未提交读" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="以提交读" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="可重复读" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="可串行化" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="逻辑设计" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="范式设计" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="反范式设计" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="物理设计" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="命名规范" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="存储引擎选择" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="数据类型选择" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="4，查询以及索引" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="慢查询" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="慢查询配置" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="慢查询分析" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="mysqldumpslow" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="pt-query-digest" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="索引" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="索引是什么" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="索引的作用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="BTree与B+Tree" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="优缺点" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="分类" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="单值索引" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="唯一索引" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="复合索引" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="全文索引" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="语法" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="创建" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="删除" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="查看" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="执行计划" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="什么是执行计划" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="具体作用" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="表的读取顺序" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="数据读取操作的操作类型" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="哪些索引可以使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="哪些索引被实际使用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="表之间的引用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="每张表有多少行被优化器查询" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="语法" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="字段详解" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="id" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="select_type" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="table" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="type" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="possible_keys" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="key" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="key_len" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="ref" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="rows" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Extra" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Sql优化" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="策略" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="尽量全值匹配" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="最佳左前缀法则" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="不在索引列上做任何操作" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="范围条件放最后" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="覆盖索引尽量用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="不等于要甚用" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Null/Not 有影响" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Like查询要当心" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="字符类型加引号" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="OR改UNION效率高" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="总结" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="批量导入" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux基础与进阶" POSITION="left">
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux入门安装" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux注意事项" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux基础指令" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux Jdk1.8环境安装及操作指令" POSITION="left">
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="Linux Tomcat安装与停启" POSITION="left">
-    </node>
-
-    </node>
-
-            <node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="设计模式实战" POSITION="left">
-    </node>
-
-    </node>
-
-    </node>
-
+<node CREATED="1557728005273" ID="ID_673102344" MODIFIED="1557728889575" TEXT="&#x4eab;&#x5b66;&#x8bfe;&#x5802;VIP&#x8bfe;&#x7a0b;&#x5927;&#x7eb2;">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1557728005273" FOLDED="true" ID="ID_1087955755" MODIFIED="1557801276557" POSITION="right" TEXT="&#x5f00;&#x6e90;&#x6846;&#x67b6;&#x89e3;&#x6790;&#x4e13;&#x9898;">
+<node CREATED="1557728005273" FOLDED="true" ID="ID_507874933" MODIFIED="1557801275788" TEXT="Spring5">
+<node CREATED="1557728005273" ID="ID_1755902804" MODIFIED="1557801230770" TEXT="IOC&#x5bb9;&#x5668;&#x53ca;&#x6e90;&#x7801;&#x89e3;&#x8bfb;">
+<node CREATED="1557728005273" FOLDED="true" ID="ID_1971496909" MODIFIED="1557801235132" TEXT="&#x5bb9;&#x5668;&#x542f;&#x52a8;&#x53ca;&#x914d;&#x7f6e;&#x7c7b;&#x52a0;&#x8f7d;&#x6d41;&#x7a0b;">
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="&#x52a0;&#x8f7d;&#x914d;&#x7f6e;&#x7c7b;"/>
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="&#x5305;&#x8def;&#x5f84;&#x626b;&#x63cf;"/>
+</node>
+<node CREATED="1557728005273" FOLDED="true" ID="ID_1275540943" MODIFIED="1557728889410" TEXT="&#x7ec4;&#x4ef6;&#x6dfb;&#x52a0;">
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="@ComponentScan&#x81ea;&#x52a8;&#x63cf;&#x8ff0;&#x7ec4;&#x4ef6;"/>
+<node CREATED="1557728005273" FOLDED="true" ID="ID_63452565" MODIFIED="1557728889409" TEXT="@Bean">
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="Bean&#x7684;&#x521b;&#x5efa;&#x3001;&#x521d;&#x59cb;&#x5316;&#x3001;&#x9500;&#x6bc1;"/>
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="Bean&#x7684;&#x540e;&#x7f6e;&#x5904;&#x7406;BeanPostProcessor"/>
+</node>
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="@Configuration&#x914d;&#x7f6e;&#x6ce8;&#x89e3;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="@Controller&#x3001;@Component&#x3001;@Service&#x3001;@Repository&#x6ce8;&#x89e3;&#x7ec4;&#x4ef6;&#x8be6;&#x89e3; "/>
+<node CREATED="1557728005273" MODIFIED="1557728005273" TEXT="@Conditional&#x3001;@Primary&#x3001;@Lazy&#x3001;@Scope&#x3001;@Import&#x6ce8;&#x89e3;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005273" ID="ID_94df19b83ec605ce1c729d68500d438e" MODIFIED="1557728005273" TEXT="ImportSelector&#x9009;&#x62e9;&#x5668;"/>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_818672327" MODIFIED="1557728889409" TEXT="FactoryBean">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5de5;&#x5382;&#x6a21;&#x5f0f;"/>
+</node>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1243679835" MODIFIED="1557728889410" TEXT="&#x7ec4;&#x4ef6;&#x8d4b;&#x503c;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="@Value&#x5c5e;&#x6027;&#x8d4b;&#x503c;&#x53ca;@PropertySource&#x3001;@PropertySources&#x6ce8;&#x89e3;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="@Autowired&#x3001;@Resources&#x3001;@Inject&#x533a;&#x522b;&#x4e0e;&#x8054;&#x7cfb;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="@Qualifier"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1564094008" MODIFIED="1557728889411" TEXT="&#x7ec4;&#x4ef6;&#x6ce8;&#x5165;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x6784;&#x9020;&#x51fd;&#x6570;&#x6ce8;&#x5165;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x65b9;&#x6cd5;&#x53c2;&#x6570;&#x6ce8;&#x5165;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Aware&#x63a5;&#x53e3;&#x8bf4;&#x660e;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1735274992" MODIFIED="1557728889411" TEXT="&#x540e;&#x7f6e;&#x5904;&#x7406;&#x5668;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="BeanFactoryPostProcessor"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="BeanDefinetionRegistry"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1120737661" MODIFIED="1557728889412" TEXT="&#x58f0;&#x660e;&#x5f0f;&#x4e8b;&#x52a1;&#x6e90;&#x7801;&#x89e3;&#x8bfb;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e8b;&#x52a1;&#x7ba1;&#x7406;&#x529f;&#x80fd;&#x5f00;&#x542f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e8b;&#x52a1;&#x64cd;&#x4f5c;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e8b;&#x52a1;&#x6e90;&#x7801;&#x5206;&#x6790;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1850426079" MODIFIED="1557728889413" TEXT="Spring5&#x5bb9;&#x5668;&#x6e90;&#x7801;&#x89e3;&#x8bfb;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="BeanFactory&#x521d;&#x59cb;&#x5316;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="BeanFactory&#x540e;&#x7f6e;&#x5904;&#x7406;&#x5668;&#x6267;&#x884c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5404;&#x7c7b;BeanPostProcessors&#x6ce8;&#x518c;&#x6267;&#x884c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="MessageSource&#x8d44;&#x6e90;&#x56fd;&#x9645;&#x5316;&#x521d;&#x59cb;&#x5316;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e8b;&#x4ef6;&#x6d3e;&#x53d1;&#x5668;&#x3001;&#x76d1;&#x542c;&#x5668;&#x521d;&#x59cb;&#x5316;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Bean&#x51c6;&#x5907;&#x521b;&#x5efa;&#x5de5;&#x4f5c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Bean&#x5b8c;&#x6210;&#x521b;&#x5efa;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5b8c;&#x6210;&#x5bb9;&#x5668;&#x521b;&#x5efa;"/>
+</node>
+</node>
+<node CREATED="1557728005274" ID="ID_1929863186" MODIFIED="1557801239496" TEXT="AOP&#x4f7f;&#x7528;&#x4e0e;&#x6e90;&#x7801;&#x5206;&#x6790;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="@EnableAspectJAutoProxy&#x6ce8;&#x89e3;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5207;&#x9762;&#x6ce8;&#x89e3;&#x4f7f;&#x7528;&#x89e3;&#x6790;"/>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_184773639" MODIFIED="1557801243700" TEXT="AOP&#x6e90;&#x7801;&#x89e3;&#x8bfb;&#x5b9e;&#x6218;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="AOP&#x6838;&#x5fc3;&#x7c7b;&#x7684;&#x6ce8;&#x518c;&#x53ca;&#x6267;&#x884c;&#x65f6;&#x673a;&#x5206;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="AOP&#x4ee3;&#x7406;&#x521b;&#x5efa;&#x539f;&#x7406;&#x53ca;&#x6e90;&#x7801;&#x5256;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="AOP&#x6838;&#x5fc3;&#x529f;&#x80fd;&#x4e4b;&#x62e6;&#x622a;&#x5668;&#x94fe;-MethodInterceptor&#x89e3;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x65b9;&#x6cd5;&#x538b;&#x6808;&#x53ca;&#x94fe;&#x5f0f;&#x8c03;&#x7528;&#x539f;&#x5219;&#x89e3;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="AOP&#x603b;&#x7ed3;&#x4e0e;&#x56de;&#x987e;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_302789309" MODIFIED="1557801274420" TEXT="SpringMVC">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1218181718" MODIFIED="1557801251892" TEXT="Servlet3.0&#x7684;&#x6ce8;&#x89e3;&#x5b9e;&#x73b0;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="ServletContainerInitializer&#x5bb9;&#x5668;&#x521d;&#x59cb;&#x5316;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="ServletRegistration&#x6ce8;&#x518c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="FilterRegistration&#x8fc7;&#x6ee4;&#x5668;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="ServletContext"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1563897510" MODIFIED="1557801254860" TEXT="&#x6027;&#x80fd;&#x5b9e;&#x6218;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x57fa;&#x4e8e;Servlet3.0&#x5f02;&#x6b65;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Callable&#x5f02;&#x6b65;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="DeferredResult&#x5f02;&#x6b65;"/>
+</node>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x624b;&#x5199;SpringMVC&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_651465042" MODIFIED="1557801273557" TEXT="Mybatis">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_188140936" MODIFIED="1557801260428" TEXT="&#x6982;&#x8ff0;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e3a;&#x4ec0;&#x4e48;&#x8981;&#x7528;ORM"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e3a;&#x4ec0;&#x4e48;&#x4f7f;&#x7528;MyBatis"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="MyBatis&#x5feb;&#x901f;&#x5165;&#x95e8;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1525157078" MODIFIED="1557801264492" TEXT="&#x8fdb;&#x9636;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="MyBatis&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1602536308" MODIFIED="1557728889420" TEXT="&#x6620;&#x5c04;&#x5668;&#x7684;&#x914d;&#x7f6e;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x57fa;&#x4e8e;XML"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x57fa;&#x4e8e;&#x6ce8;&#x89e3;"/>
+</node>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x52a8;&#x6001;SQL"/>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1981986872" MODIFIED="1557728889420" TEXT="&#x4e0e;Spring&#x7684;&#x96c6;&#x6210;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x96c6;&#x6210;&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x96c6;&#x6210;&#x7684;&#x539f;&#x7406;&#x5206;&#x6790;"/>
+</node>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7f13;&#x5b58;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5173;&#x8054;&#x67e5;&#x8be2;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4ee3;&#x7801;&#x751f;&#x6210;&#x5668;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1820819440" MODIFIED="1557801266380" TEXT="&#x9ad8;&#x7ea7;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x6e90;&#x7801;&#x5206;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x63d2;&#x4ef6;&#x5f00;&#x53d1;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5206;&#x9875;&#x63d2;&#x4ef6;&#x4f7f;&#x7528;&#x4e0e;&#x6e90;&#x7801;&#x5206;&#x6790;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1476266034" MODIFIED="1557801271868" TEXT="&#x5b9e;&#x6218;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5feb;&#x901f;&#x5165;&#x95e8;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e0e;Spring&#x7684;&#x96c6;&#x6210;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x591a;&#x5bf9;&#x591a;&#x7ea7;&#x8054;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x6e90;&#x7801;&#x5206;&#x6790;&#x4f5c;&#x4e1a;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x624b;&#x5199;&#x4e00;&#x4e2a;MyBatis&#x6846;&#x67b6;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1026596570" MODIFIED="1557801297292" POSITION="left" TEXT="&#x56e2;&#x961f;&#x534f;&#x4f5c;&#x5f00;&#x53d1;&#x4e13;&#x9898;">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1563111033" MODIFIED="1557728889426" TEXT="Git">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_261623809" MODIFIED="1557728889425" TEXT="Git&#x57fa;&#x672c;&#x5de5;&#x4f5c;&#x539f;&#x7406;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e0e;SVN&#x5bf9;&#x6bd4;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x57fa;&#x672c;&#x8fd0;&#x4f5c;&#x6d41;&#x7a0b;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_129114537" MODIFIED="1557728889425" TEXT="Git&#x5e38;&#x7528;&#x64cd;&#x4f5c;&#x53ca;&#x95ee;&#x9898;&#x5904;&#x7406;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5de5;&#x7a0b;&#x521d;&#x59cb;&#x5316;&#x53ca;&#x514b;&#x9686;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x6587;&#x4ef6;&#x63d0;&#x4ea4;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5206;&#x652f;&#x4e0e;&#x5e38;&#x7528;&#x6807;&#x7b7e;&#x5e94;&#x7528;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5408;&#x5e76;&#x4e0e;&#x51b2;&#x7a81;&#x89e3;&#x51b3;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x67b6;&#x6784;&#x5e08;&#x804c;&#x8d23;&#xff1a;Git Flow&#x5fc5;&#x5907;&#x6280;&#x80fd;&#xff0c;&#x89c4;&#x8303;&#x56e2;&#x961f;Git&#x64cd;&#x4f5c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x67b6;&#x6784;&#x5e08;&#x66fe;&#x8e29;&#x8fc7;&#x7684;&#x5751;&#x7ecf;&#x9a8c;&#x5206;&#x4eab;"/>
+</node>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_632927621" MODIFIED="1557728889432" TEXT="Maven">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1636980024" MODIFIED="1557728889427" TEXT="&#x5b89;&#x88c5;&#x548c;&#x914d;&#x7f6e;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Windows&#x4e0a;&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Liunx&#x4e0a;&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x76ee;&#x5f55;&#x5206;&#x6790;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1537895682" MODIFIED="1557728889427" TEXT="&#x4f7f;&#x7528;&#x5165;&#x95e8;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7f16;&#x5199;POM"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7f16;&#x5199;&#x4e3b;&#x4ee3;&#x7801;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7f16;&#x5199;&#x6d4b;&#x8bd5;&#x4ee3;&#x7801;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x6253;&#x5305;&#x548c;&#x8fd0;&#x884c;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1949522612" MODIFIED="1557728889428" TEXT="&#x5750;&#x6807;&#x548c;&#x4f9d;&#x8d56;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Maven&#x5750;&#x6807;&#x4ee5;&#x53ca;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4f9d;&#x8d56;&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4f9d;&#x8d56;&#x7684;&#x8303;&#x56f4;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4f20;&#x9012;&#x6027;&#x4f9d;&#x8d56;&#x548c;&#x4f9d;&#x8d56;&#x8c03;&#x89e3;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_190835446" MODIFIED="1557728889429" TEXT="&#x805a;&#x5408;&#x4e0e;&#x7ee7;&#x627f;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x805a;&#x5408;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7ee7;&#x627f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x805a;&#x5408;&#x4e0e;&#x7ee7;&#x627f;&#x7684;&#x5173;&#x7cfb;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7ea6;&#x5b9a;&#x4f18;&#x4e8e;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x53cd;&#x5e94;&#x5806;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1767459114" MODIFIED="1557728889429" TEXT="&#x751f;&#x547d;&#x5468;&#x671f;&#x4e0e;&#x63d2;&#x4ef6;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="clean&#x751f;&#x547d;&#x5468;&#x671f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="default&#x751f;&#x547d;&#x5468;&#x671f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="site&#x751f;&#x547d;&#x5468;&#x671f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x547d;&#x4ee4;&#x884c;&#x4e0e;&#x751f;&#x547d;&#x5468;&#x671f;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x63d2;&#x4ef6;&#x76ee;&#x6807;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x63d2;&#x4ef6;&#x7ed1;&#x5b9a;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x63d2;&#x4ef6;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5e38;&#x7528;&#x63d2;&#x4ef6;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_262505192" MODIFIED="1557728889430" TEXT="&#x4ed3;&#x5e93;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x672c;&#x5730;&#x4ed3;&#x5e93;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e2d;&#x592e;&#x4ed3;&#x5e93;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5feb;&#x7167;&#x7248;&#x672c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5feb;&#x7167;&#x7248;&#x672c;&#x4e0e;&#x955c;&#x50cf;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1327509983" MODIFIED="1557728889431" TEXT="&#x7248;&#x672c;&#x7ba1;&#x7406;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7248;&#x672c;&#x53f7;&#x5b9a;&#x4e49;&#x7ea6;&#x5b9a;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e3b;&#x5e72;&#x3001;&#x6807;&#x7b7e;&#x4e0e;&#x5206;&#x652f;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_748797707" MODIFIED="1557728889431" TEXT="&#x79c1;&#x670d;&#xff0d;Nexus">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5b89;&#x88c5;Nexus"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Nexus&#x7684;&#x4ed3;&#x5e93;&#x4e0e;&#x4ed3;&#x5e93;&#x7ec4;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Nexus&#x4f7f;&#x7528;&#x3001;&#x4e0a;&#x4f20;&#x3001;&#x914d;&#x7f6e;"/>
+</node>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Maven&#x5b9e;&#x6218;&#x4e0e;&#x624b;&#x5199;&#x81ea;&#x5df1;&#x7684;&#x63d2;&#x4ef6;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1377132600" MODIFIED="1557740967260" TEXT="Jenkins">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1717721595" MODIFIED="1557728889433" TEXT="&#x73af;&#x5883;&#x642d;&#x5efa;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jekins&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins Tomcat&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins Git&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins Maven&#x5b89;&#x88c5;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1392067688" MODIFIED="1557728889433" TEXT="&#x914d;&#x7f6e;&#x7ba1;&#x7406;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;&#x7a0b;&#x5e8f;&#x4f5c;&#x4e1a;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;&#x5355;&#x5143;&#x6d4b;&#x8bd5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;&#x81ea;&#x52a8;&#x5316;&#x6d4b;&#x8bd5;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_8428319" MODIFIED="1557728889434" TEXT="&#x90e8;&#x7f72;&#x5206;&#x6790;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;&#x90ae;&#x4ef6;&#x901a;&#x77e5;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x914d;&#x7f6e;&#x62a5;&#x8868;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x4ee3;&#x7801;&#x5206;&#x6790;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x5206;&#x5e03;&#x5f0f;&#x6784;&#x5efa;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x81ea;&#x52a8;&#x90e8;&#x7f72;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_708986976" MODIFIED="1557728889435" TEXT="&#x9ad8;&#x7ea7;&#x8fdb;&#x9636;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x6307;&#x6807;&#x4e0e;&#x8d8b;&#x52bf;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x670d;&#x52a1;&#x5668;&#x7ef4;&#x62a4;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x6301;&#x7eed;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x63d2;&#x4ef6;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x5907;&#x4efd;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="Jenkins&#x8fdc;&#x7a0b;&#x6d4b;&#x8bd5;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_297543814" MODIFIED="1557801292940" POSITION="right" TEXT="&#x9ad8;&#x6027;&#x80fd;&#x67b6;&#x6784;&#x4e13;&#x9898;">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1070482575" MODIFIED="1557801281005" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x67b6;&#x6784;&#x601d;&#x7ef4;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5927;&#x578b;&#x4e92;&#x8054;&#x7f51;&#x67b6;&#x6784;&#x6f14;&#x8fdb;&#x8fc7;&#x7a0b;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x67b6;&#x6784;&#x5e08;&#x5e94;&#x5177;&#x5907;&#x7684;&#x5206;&#x5e03;&#x5f0f;&#x77e5;&#x8bc6;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4e3b;&#x6d41;&#x5206;&#x5e03;&#x5f0f;&#x67b6;&#x6784;&#x8bbe;&#x8ba1;&#x8be6;&#x89e3;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1205070183" MODIFIED="1557801283156" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x534f;&#x8c03;&#x548c;&#x5206;&#x6d41;">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1129658611" MODIFIED="1557728889439" TEXT="Zookeeper&#x5206;&#x5e03;&#x5f0f;&#x73af;&#x5883;&#x6307;&#x6325;&#x5b98;">
+<node CREATED="1557728005274" FOLDED="true" ID="ID_381504023" MODIFIED="1557728889437" TEXT="zk&#x7684;&#x5165;&#x95e8;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x4f1a;&#x8bdd;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x8282;&#x70b9;&#x5c5e;&#x6027;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x8282;&#x70b9;&#x7c7b;&#x578b;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x7248;&#x672c;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x76d1;&#x542c;&#x5668;&#x673a;&#x5236;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5b89;&#x5168;&#x6743;&#x9650;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5355;&#x673a;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="zk&#x7684;&#x547d;&#x4ee4;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1626397334" MODIFIED="1557728889437" TEXT="zk&#x5f00;&#x53d1;&#x57fa;&#x7840;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x539f;&#x751f;&#x5ba2;&#x6237;&#x7aef;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="zkclient"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="curotor"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_1038959140" MODIFIED="1557728889438" TEXT="zookeeper&#x5e94;&#x7528;&#x5b9e;&#x6218;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x914d;&#x7f6e;&#x4e2d;&#x5fc3;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x9501;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x96c6;&#x7fa4;&#x9009;&#x4e3e;"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="&#x547d;&#x540d;&#x670d;&#x52a1;"/>
+</node>
+<node CREATED="1557728005274" FOLDED="true" ID="ID_476798394" MODIFIED="1557728889439" TEXT="&#x534f;&#x8bae;">
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="2p,3p"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="cap"/>
+<node CREATED="1557728005274" MODIFIED="1557728005274" TEXT="base"/>
+<node CREATED="1557728005274" ID="ID_2cea022acea6c05d389307e712d3a0fd" MODIFIED="1557728005274" TEXT="paxos "/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="zab"/>
+</node>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_799656586" MODIFIED="1557728889446" TEXT="Nginx&#x9ad8;&#x5e76;&#x53d1;&#x5206;&#x6d41;&#x8fdb;&#x9636;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1498277987" MODIFIED="1557728889440" TEXT="nginx&#x5b89;&#x88c5;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5e38;&#x7528;&#x670d;&#x52a1;&#x5668;&#x4ecb;&#x7ecd;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="nginx&#x5b89;&#x88c5;&#x53ca;&#x5e38;&#x89c1;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x76ee;&#x5f55;&#x7ed3;&#x6784;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5e38;&#x7528;&#x547d;&#x4ee4;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1759748182" MODIFIED="1557728889440" TEXT="&#x6b63;&#x53cd;&#x5411;&#x4ee3;&#x7406;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x6b63;&#x5411;&#x4ee3;&#x7406;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x53cd;&#x5411;&#x4ee3;&#x7406;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_352034104" MODIFIED="1557728889441" TEXT="nginx&#x8fdb;&#x7a0b;&#x6a21;&#x578b;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6a21;&#x578b;&#x53ca;&#x57fa;&#x672c;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x53d1;&#x9001;&#x4fe1;&#x53f7;&#x65b9;&#x5f0f;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_201274744" MODIFIED="1557728889441" TEXT="&#x6838;&#x5fc3;&#x914d;&#x7f6e;&#x7ed3;&#x6784;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="conf&#x914d;&#x7f6e;&#x6587;&#x4ef6;&#x7ed3;&#x6784;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="main&#x5168;&#x5c40;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="http&#x670d;&#x52a1;&#x5668;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="server&#x865a;&#x62df;&#x4e3b;&#x673a;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8bbf;&#x95ee;&#x63a7;&#x5236; allow/deny"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="location"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1937709773" MODIFIED="1557728889442" TEXT="&#x65e5;&#x5fd7;&#x914d;&#x7f6e;&#x53ca;&#x5207;&#x5272;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Nginx&#x65e5;&#x5fd7;&#x683c;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Nginx&#x65e5;&#x5fd7;&#x5206;&#x9694;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="crontab&#x8bbe;&#x7f6e;&#x4f5c;&#x4e1a;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1878452983" MODIFIED="1557728889442" TEXT="location&#x89c4;&#x5219;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5339;&#x914d;&#x4f18;&#x5148;&#x7ea7;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Location&#x89c4;&#x5219;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Location&#x89e3;&#x6790;&#x8fc7;&#x7a0b;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="if&#x6307;&#x4ee4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="return&#x6307;&#x4ee4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5185;&#x7f6e;&#x53d8;&#x91cf;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_519112234" MODIFIED="1557728889443" TEXT="rewrite&#x7684;&#x4f7f;&#x7528;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="URL&#x91cd;&#x5199;&#x573a;&#x666f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="rewrite&#x8bed;&#x6cd5;&#x683c;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="regex &#x5e38;&#x7528;&#x6b63;&#x5219;&#x8868;&#x8fbe;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="rewrite&#x8fc7;&#x7a0b;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1400088908" MODIFIED="1557728889444" TEXT="&#x52a8;&#x9759;&#x5206;&#x79bb;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="mvvm&#x6a21;&#x5f0f;&#x7684;&#x4ea4;&#x4e92;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x52a8;&#x9759;&#x5206;&#x79bb;&#x7684;&#x4e24;&#x79cd;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4f2a;&#x9759;&#x6001;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x52a8;&#x9759;&#x5206;&#x79bb;&#x5b9e;&#x4f8b;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1331544701" MODIFIED="1557728889444" TEXT="&#x53cd;&#x5411;&#x4ee3;&#x7406;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x53cd;&#x5411;&#x4ee3;&#x7406;&#x7684;&#x573a;&#x666f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x57fa;&#x7840;&#x7528;&#x6cd5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8d1f;&#x8f7d;&#x5747;&#x8861;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="4&#x79cd;&#x8d1f;&#x8f7d;&#x65b9;&#x5f0f;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_830123269" MODIFIED="1557728889444" TEXT="&#x8de8;&#x57df;&#x914d;&#x7f6e;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8de8;&#x57df;&#x7684;&#x7531;&#x6765;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8de8;&#x57df;&#x7684;&#x89e3;&#x51b3;&#x65b9;&#x6848;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="cors&#x65b9;&#x6848;&#x7528;&#x6cd5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x7b80;&#x5355;&#x8bf7;&#x6c42;&#x4e0e;&#x590d;&#x6742;&#x8bf7;&#x6c42;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1732842412" MODIFIED="1557728889445" TEXT="&#x7f13;&#x5b58;&#x914d;&#x7f6e;&#x53ca;Gzip&#x914d;&#x7f6e;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x9759;&#x6001;&#x8d44;&#x6e90;&#x7f13;&#x5b58;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8d44;&#x6e90;&#x538b;&#x7f29;&#x914d;&#x7f6e;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1910125247" MODIFIED="1557728889445" TEXT="https&#x914d;&#x7f6e;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4fe1;&#x606f;&#x4f20;&#x8f93;&#x5b89;&#x5168;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="HTTPS&#x7b80;&#x4ecb;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="openssl&#x751f;&#x6210;&#x8bc1;&#x4e66;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Nginx.conf&#x914d;&#x7f6e;&#x8bc1;&#x4e66;"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6a2a;&#x5411;&#x62d3;&#x5c55;&#x5e26;&#x6765;&#x7684;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1481848158" MODIFIED="1557728889446" TEXT="LVS&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Nginx&#x9ad8;&#x53ef;&#x7528;&#x6982;&#x8ff0;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Keepalived&#x539f;&#x7406;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x914d;&#x7f6e;&#x62a2;&#x5360;&#x5f0f;&#x6a21;&#x5f0f;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1942725994" MODIFIED="1557728889463" TEXT="&#x5f02;&#x6b65;&#x4e0e;&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_103902844" MODIFIED="1557728889447" TEXT="&#x6982;&#x8ff0;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;&#xff1f;&#x548c;RPC&#x6709;&#x4f55;&#x533a;&#x522b;&#xff1f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;&#x4f7f;&#x7528;&#x573a;&#x666f;&#x4ecb;&#x7ecd;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;(ActiveMQ&#x3001;RabbitMQ&#x3001;RocketMQ&#x3001;Kafka)&#x7b80;&#x4ecb;&#x53ca;&#x5bf9;&#x6bd4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;&#x7684;&#x7f16;&#x5e74;&#x53f2;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1835266557" MODIFIED="1557728889449" TEXT="ActiveMq&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_752852951" MODIFIED="1557728889447" TEXT="JMS&#x89c4;&#x8303;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4ec0;&#x4e48;&#x662f;JMS&#xff08;Java Messaging Service&#xff09;&#x89c4;&#x8303;&#xff1f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5305;&#x542b;&#x8981;&#x7d20;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7c7b;&#x578b;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="P2P&#x6a21;&#x578b;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Topic(PUB\SUB)&#x6a21;&#x578b;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_291790025" MODIFIED="1557728889448" TEXT="ActiveMQ&#x4f7f;&#x7528;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5b89;&#x88c5;&#x548c;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x539f;&#x751f;ActiveMQ&#x7684;API&#x7f16;&#x7a0b;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_856472388" MODIFIED="1557728889448" TEXT="&#x4e0e;Spring&#x96c6;&#x6210;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Xml&#x914d;&#x7f6e;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="SpringBoot"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Request-Response&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5b9e;&#x6218;&#xff1a;&#x7528;&#x6237;&#x6ce8;&#x518c;&#x7684;&#x5f02;&#x6b65;&#x5904;&#x7406;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_398625287" MODIFIED="1557728889448" TEXT="ActiveMQ&#x9ad8;&#x7ea7;&#x7279;&#x6027;&#x548c;&#x7528;&#x6cd5;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5d4c;&#x5165;&#x5f0f;MQ"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x5b58;&#x50a8;&#x7684;&#x6301;&#x4e45;&#x5316;&#x673a;&#x5236;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x6301;&#x4e45;&#x8ba2;&#x9605;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x53ef;&#x9760;&#x6027;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x901a;&#x914d;&#x7b26;&#x5f0f;&#x5206;&#x5c42;&#x8ba2;&#x9605;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6b7b;&#x4fe1;&#x961f;&#x5217;DLQ(Dead Letter Queue)"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x955c;&#x50cf;&#x961f;&#x5217;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x865a;&#x62df;&#x4e3b;&#x9898;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x7ec4;&#x5408;Destinations"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5b9e;&#x6218;&#xff1a;&#x9650;&#x65f6;&#x8ba2;&#x5355;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1015791163" MODIFIED="1557728889449" TEXT="&#x4f01;&#x4e1a;&#x7ea7;&#x9ad8;&#x53ef;&#x7528;&#x96c6;&#x7fa4;&#x90e8;&#x7f72;&#x65b9;&#x6848;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_301046368" MODIFIED="1557728889449" TEXT="Shared">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="File System "/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="DB"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Replicated LevelDB Store"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Broker-Cluster"/>
+</node>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1054836133" MODIFIED="1557728889454" TEXT="RabbitMq&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1930237001" MODIFIED="1557728889450" TEXT="AMQP&#x89c4;&#x8303;&#x548c;RabbitMQ&#x57fa;&#x672c;&#x6982;&#x5ff5;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1940701046" MODIFIED="1557728889450" TEXT="&#x8981;&#x7d20;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x751f;&#x4ea7;&#x8005;&#x3001;&#x6d88;&#x8d39;&#x8005;&#x3001;&#x6d88;&#x606f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4fe1;&#x9053;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4ea4;&#x6362;&#x5668;&#x3001;&#x961f;&#x5217;&#x3001;&#x7ed1;&#x5b9a;&#x3001;&#x8def;&#x7531;&#x952e;"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x786e;&#x8ba4;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_357778739" MODIFIED="1557728889450" TEXT="&#x4ea4;&#x6362;&#x5668;&#x7c7b;&#x578b;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Direct"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Fanout"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Topic"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x865a;&#x62df;&#x4e3b;&#x673a;"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Windows&#x4e0b;&#x5b89;&#x88c5;&#x548c;&#x8fd0;&#x884c;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1451990400" MODIFIED="1557728889451" TEXT="Linux&#x4e0b;&#x5b89;&#x88c5;&#x4e0e;&#x914d;&#x7f6e;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4e0b;&#x8f7d;&#x5b89;&#x88c5;&#x548c;&#x65e5;&#x5e38;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="web&#x76d1;&#x63a7;&#x5e73;&#x53f0;"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x539f;&#x751f;Java&#x5ba2;&#x6237;&#x7aef;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_269771542" MODIFIED="1557728889451" TEXT="&#x6d88;&#x606f;&#x53d1;&#x5e03;&#x65f6;&#x7684;&#x6743;&#x8861;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5931;&#x8d25;&#x901a;&#x77e5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x53d1;&#x5e03;&#x8005;&#x786e;&#x8ba4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4e8b;&#x52a1;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5907;&#x7528;&#x4ea4;&#x6362;&#x5668;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1864457701" MODIFIED="1557728889452" TEXT="&#x6d88;&#x606f;&#x6d88;&#x8d39;&#x65f6;&#x7684;&#x6743;&#x8861;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x83b7;&#x5f97;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="QoS&#x9884;&#x53d6;&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x53ef;&#x9760;&#x6027;&#x548c;&#x6027;&#x80fd;&#x7684;&#x6743;&#x8861;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_15224893" MODIFIED="1557728889452" TEXT="&#x6d88;&#x606f;&#x7684;&#x62d2;&#x7edd;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x62d2;&#x7edd;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6b7b;&#x4fe1;&#x4ea4;&#x6362;&#x5668;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1328740408" MODIFIED="1557728889452" TEXT="&#x63a7;&#x5236;&#x961f;&#x5217;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4e34;&#x65f6;&#x961f;&#x5217;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6c38;&#x4e45;&#x961f;&#x5217;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x961f;&#x5217;&#x7ea7;&#x522b;&#x6d88;&#x606f;&#x8fc7;&#x671f;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1461241110" MODIFIED="1557728889453" TEXT="&#x6d88;&#x606f;&#x7684;&#x5c5e;&#x6027;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5c5e;&#x6027;&#x5217;&#x8868;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x6301;&#x4e45;&#x5316;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1234401059" MODIFIED="1557728889453" TEXT="&#x4e0e;Spring&#x96c6;&#x6210;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Xml&#x914d;&#x7f6e;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="SpringBoot"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5b9e;&#x6218;&#xff1a;&#x5e94;&#x7528;&#x89e3;&#x8026;"/>
+</node>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x96c6;&#x7fa4;&#x5316;&#x4e0e;&#x955c;&#x50cf;&#x961f;&#x5217;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_454396352" MODIFIED="1557728889463" TEXT="Kafka&#x767e;&#x4e07;&#x7ea7;&#x541e;&#x5410;&#x5b9e;&#x6218;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1270567398" MODIFIED="1557728889455" TEXT="Kafka&#x5165;&#x95e8;">
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1179040355" MODIFIED="1557728889454" TEXT="Kafka&#x4e2d;&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x548c;&#x6279;&#x6b21;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4e3b;&#x9898;&#x548c;&#x5206;&#x533a;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x751f;&#x4ea7;&#x8005;&#x548c;&#x6d88;&#x8d39;&#x8005;&#x3001;&#x504f;&#x79fb;&#x91cf;&#x3001;&#x6d88;&#x8d39;&#x8005;&#x7fa4;&#x7ec4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Broker&#x548c;&#x96c6;&#x7fa4;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1794910075" MODIFIED="1557728889455" TEXT="&#x4e3a;&#x4ec0;&#x4e48;&#x9009;&#x62e9;Kafka">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x591a;&#x751f;&#x4ea7;&#x8005;&#x548c;&#x591a;&#x6d88;&#x8d39;&#x8005;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x57fa;&#x4e8e;&#x78c1;&#x76d8;&#x7684;&#x6570;&#x636e;&#x5b58;&#x50a8;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x9ad8;&#x4f38;&#x7f29;&#x6027;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x9ad8;&#x6027;&#x80fd;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5e38;&#x89c1;&#x573a;&#x666f;"/>
+</node>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_418363408" MODIFIED="1557728889456" TEXT="Kafka&#x7684;&#x5b89;&#x88c5;&#x548c;&#x914d;&#x7f6e;&#x53c2;&#x6570;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x8fd0;&#x884c;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x57fa;&#x672c;&#x7684;&#x64cd;&#x4f5c;&#x548c;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Broker&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x786c;&#x4ef6;&#x914d;&#x7f6e;&#x5bf9;Kafka&#x6027;&#x80fd;&#x7684;&#x5f71;&#x54cd;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_141872639" MODIFIED="1557728889457" TEXT="Kafka&#x7684;&#x96c6;&#x7fa4;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x4e3a;&#x4f55;&#x9700;&#x8981;Kafka&#x96c6;&#x7fa4;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x5982;&#x4f55;&#x4f30;&#x7b97;Kafka&#x96c6;&#x7fa4;&#x4e2d;Broker&#x7684;&#x6570;&#x91cf;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="Broker&#x5982;&#x4f55;&#x52a0;&#x5165;Kafka&#x96c6;&#x7fa4;"/>
+</node>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1914833572" MODIFIED="1557728889459" TEXT="Kafka&#x7684;&#x751f;&#x4ea7;&#x8005;&#x548c;&#x6d88;&#x8d39;&#x8005;">
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x6d88;&#x606f;&#x7684;&#x53d1;&#x9001;&#x548c;&#x63a5;&#x6536;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x751f;&#x4ea7;&#x8005;&#x548c;&#x6d88;&#x8d39;&#x8005;&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005275" MODIFIED="1557728005275" TEXT="&#x751f;&#x4ea7;&#x8005;&#x53d1;&#x9001;&#x6d88;&#x606f;&#x7684;&#x57fa;&#x672c;&#x6d41;&#x7a0b;"/>
+<node CREATED="1557728005275" FOLDED="true" ID="ID_1103513928" MODIFIED="1557728889458" TEXT="Kafka&#x751f;&#x4ea7;&#x8005;&#x9ad8;&#x7ea7;&#x7279;&#x6027;">
+<node CREATED="1557728005275" ID="ID_75498218b772a368efe758e85ad813ea" MODIFIED="1557728005275" TEXT="&#x4e09;&#x79cd;&#x53d1;&#x9001;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x591a;&#x7ebf;&#x7a0b;&#x4e0b;&#x7684;&#x751f;&#x4ea7;&#x8005;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x66f4;&#x591a;&#x53d1;&#x9001;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x987a;&#x5e8f;&#x4fdd;&#x8bc1;  "/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5e8f;&#x5217;&#x5316;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x533a;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1045864543" MODIFIED="1557728889458" TEXT="Kafka&#x6d88;&#x8d39;&#x8005;&#x9ad8;&#x7ea7;&#x7279;&#x6027;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6d88;&#x8d39;&#x8005;&#x7fa4;&#x7ec4;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x533a;&#x518d;&#x5747;&#x8861;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x8ba2;&#x9605;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x8f6e;&#x8be2;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x591a;&#x7ebf;&#x7a0b;&#x4e0b;&#x7684;&#x6d88;&#x8d39;&#x8005;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6d88;&#x8d39;&#x8005;&#x914d;&#x7f6e;  "/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x63d0;&#x4ea4;&#x548c;&#x504f;&#x79fb;&#x91cf;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x518d;&#x5747;&#x8861;&#x76d1;&#x542c;&#x5668;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x72ec;&#x7acb;&#x6d88;&#x8d39;&#x8005;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_62913345" MODIFIED="1557728889460" TEXT="&#x6574;&#x5408;Spring">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Spring&#x548c;Kafka&#x7684;&#x6574;&#x5408;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="SpringBoot&#x548c;Kafka&#x7684;&#x6574;&#x5408;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1704760693" MODIFIED="1557728889460" TEXT="&#x6df1;&#x5165;&#x7406;&#x89e3;Kafka">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x63a7;&#x5236;&#x5668;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x590d;&#x5236;-Kafka&#x7684;&#x6838;&#x5fc3;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x96c6;&#x7fa4;&#x7684;&#x6210;&#x5458;&#x5173;&#x7cfb;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5904;&#x7406;&#x8bf7;&#x6c42;&#x7684;&#x5185;&#x90e8;&#x673a;&#x5236;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7269;&#x7406;&#x5b58;&#x50a8;&#x539f;&#x7406;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1155270205" MODIFIED="1557728889462" TEXT="&#x4fdd;&#x8bc1;Kafka&#x7684;&#x53ef;&#x9760;&#x6570;&#x636e;&#x4f20;&#x9012;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Kafka&#x63d0;&#x4f9b;&#x7684;&#x53ef;&#x9760;&#x6027;&#x4fdd;&#x8bc1;&#x548c;&#x67b6;&#x6784;&#x4e0a;&#x7684;&#x6743;&#x8861;"/>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1192983811" MODIFIED="1557728889461" TEXT="Broker&#x914d;&#x7f6e;&#x5bf9;&#x53ef;&#x9760;&#x6027;&#x7684;&#x5f71;&#x54cd;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x590d;&#x5236;&#x7cfb;&#x6570;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e0d;&#x5b8c;&#x5168;&#x7684;&#x9996;&#x9886;&#x9009;&#x4e3e;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6700;&#x5c11;&#x540c;&#x6b65;&#x526f;&#x672c;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_892841116" MODIFIED="1557728889462" TEXT="&#x5927;&#x6570;&#x636e;&#x521d;&#x7aa5;&#x95e8;&#x5f84;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6570;&#x636e;&#x7ba1;&#x9053;&#x57fa;&#x672c;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6d41;&#x5f0f;&#x5904;&#x7406;&#x57fa;&#x672c;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6d41;&#x5f0f;&#x5904;&#x7406;&#x5c0f;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x524a;&#x5cf0;&#x586b;&#x8c37;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1314460462" MODIFIED="1557728889478" TEXT="&#x7f13;&#x5b58;&#x548c;NoSQL">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1088508446" MODIFIED="1557728889469" TEXT="Redis&#x9ad8;&#x6027;&#x80fd;&#x7f13;&#x5b58;&#x6570;&#x636e;&#x5e93;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1979569875" MODIFIED="1557728889464" TEXT="Redis&#x521d;&#x5165;&#x95e8;&#x53ca;&#x4ecb;&#x7ecd;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x57fa;&#x672c;&#x4ecb;&#x7ecd;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7b80;&#x5355;&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x542f;&#x52a8;&#x3001;&#x8fd0;&#x884c;&#x3001;&#x505c;&#x6b62;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_40017260" MODIFIED="1557728889464" TEXT="Java&#x5ba2;&#x6237;&#x7aef;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Jedis"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Jedispool"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x624b;&#x5199;Jedis&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1434496689" MODIFIED="1557728889465" TEXT="Redis&#x5e38;&#x7528;&#x547d;&#x4ee4;&#x53ca;&#x5e94;&#x7528;&#x573a;&#x666f;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="set&#x3001;get&#x3001;lpush&#x3001;lrange&#x3001;hmget&#x3001;hmset&#x3001;pipeline"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="String&#x3001;List&#x3001;Hash&#x3001;Set&#x3001;Zset&#x7c7b;&#x578b;&#x4f7f;&#x7528;&#x573a;&#x666f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x65f6;&#x95f4;&#x8f74;&#x3001;&#x961f;&#x5217;&#x5e94;&#x7528;&#x573a;&#x666f;&#x8bbe;&#x8ba1;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x8d2d;&#x7269;&#x8f66;&#x5f00;&#x53d1;&#x4e0e;&#x8bbe;&#x8ba1;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Redis&#x4e0e;Lua&#x6a21;&#x62df;&#x62a2;&#x7ea2;&#x5305;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7f51;&#x7ad9;&#x6295;&#x7968;&#x8bbe;&#x8ba1;&#x4e0e;&#x5f00;&#x53d1;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1639765478" MODIFIED="1557728889466" TEXT="&#x6570;&#x636e;&#x4e00;&#x81f4;&#x6027;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Lua&#x8bed;&#x8a00;&#x7ed3;&#x5408;&#x5f00;&#x53d1;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5f31;&#x4e8b;&#x52a1;&#x4f53;&#x73b0;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="multi&#x3001;watch&#x3001;discard&#x3001;exec"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1262390693" MODIFIED="1557728889466" TEXT="Redis&#x6027;&#x80fd;&#x4f18;&#x5316;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="BenchMark"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Slowlog-more-than"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="slowlog-len"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_73830864" MODIFIED="1557728889467" TEXT="Redis&#x4e3b;&#x4ece;&#x6a21;&#x5f0f;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e00;&#x4e3b;&#x4e00;&#x4ece;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e00;&#x4e3b;&#x591a;&#x4ece;&#x3001;&#x6811;&#x578b;&#x4e3b;&#x4ece;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_983441808" MODIFIED="1557728889467" TEXT="Redis&#x6301;&#x4e45;&#x5316;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="RDB"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="AOF"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6570;&#x636e;&#x6062;&#x590d;&#x4e0e;&#x8f6c;&#x79fb;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_732838548" MODIFIED="1557728889468" TEXT="&#x54e8;&#x5175;&#x6838;&#x5fc3;&#x673a;&#x5236;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x9009;&#x4e3e;&#x539f;&#x7406;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e3b;&#x89c2;&#x4e0b;&#x7ebf;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5ba2;&#x89c2;&#x4e0b;&#x7ebf;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Java&#x4e0e;&#x54e8;&#x5175;&#x5982;&#x4f55;&#x5de5;&#x4f5c;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x52a8;&#x624b;&#x642d;&#x5efa;Spring&#x4e0e;Redis&#x54e8;&#x5175;&#x6a21;&#x5f0f;&#x96c6;&#x6210;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1765479115" MODIFIED="1557728889469" TEXT="&#x9ad8;&#x53ef;&#x7528;&#x96c6;&#x7fa4;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x69fd;&#x7684;&#x4ecb;&#x7ecd;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x952e;&#x69fd;&#x5173;&#x7cfb;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x5b58;&#x50a8;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x91cd;&#x5b9a;&#x5411;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x624b;&#x628a;&#x624b;&#x642d;&#x5efa;Redis&#x9ad8;&#x53ef;&#x7528;&#x96c6;&#x7fa4;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="JedisCluster"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="JedisCluster+SpringMVC&#x6574;&#x5408;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x52a8;&#x6001;&#x6269;&#x5bb9;&#x3001;&#x7f29;&#x51cf;&#x96c6;&#x7fa4;&#x8282;&#x70b9;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_392945174" MODIFIED="1557728889474" TEXT="MongoDB&#x8fdb;&#x9636;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_278950555" MODIFIED="1557728889471" TEXT="mongodb&#x5165;&#x95e8;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="nosql&#x4e0e;sql&#x4f7f;&#x7528;&#x573a;&#x666f;&#x5206;&#x6790;"/>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1210238275" MODIFIED="1557728889470" TEXT="&#x57fa;&#x7840;&#x6982;&#x5ff5;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6570;&#x636e;&#x5e93;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x96c6;&#x5408;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7d22;&#x5f15;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6587;&#x6863;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1702518332" MODIFIED="1557728889471" TEXT="mongodb&#x8fdb;&#x9636;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5e38;&#x7528;&#x547d;&#x4ee4;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5feb;&#x901f;&#x5165;&#x95e8;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="mongodb&#x5ba2;&#x6237;&#x7aef;&#x9a71;&#x52a8;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x589e;&#x5220;&#x6539;&#x67e5;&#x4e0e;&#x805a;&#x5408;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5b89;&#x5168;&#x63a7;&#x5236;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_708205787" MODIFIED="1557728889473" TEXT="mongodb&#x9ad8;&#x7ea7;&#x77e5;&#x8bc6;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5b58;&#x50a8;&#x5f15;&#x64ce;"/>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_294619545" MODIFIED="1557728889472" TEXT="&#x7d22;&#x5f15;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7d22;&#x5f15;&#x5206;&#x6790;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x67e5;&#x8be2;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7d22;&#x5f15;&#x7684;&#x6ce8;&#x610f;&#x4e8b;&#x9879;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_538075120" MODIFIED="1557728889472" TEXT="&#x9ad8;&#x53ef;&#x7528;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x590d;&#x5236;&#x67b6;&#x6784;&#x89e3;&#x6790;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x533a;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6700;&#x4f73;&#x5b9e;&#x8df5;&#x4e0e;&#x6ce8;&#x610f;&#x4e8b;&#x9879;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_881575984" MODIFIED="1557728889477" TEXT="&#x7f13;&#x5b58;&#x89e3;&#x51b3;&#x65b9;&#x6848;&#x5b9e;&#x6218;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_582290654" MODIFIED="1557728889474" TEXT="&#x7f13;&#x5b58;&#x7684;&#x6982;&#x5ff5;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x9891;&#x7387;&#x9ad8;/&#x53d8;&#x5316;&#x5c11;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x547d;&#x4e2d;&#x7387;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7edd;&#x5bf9;&#x8fc7;&#x671f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6ed1;&#x52a8;&#x8fc7;&#x671f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5b9e;&#x6218;&#x7f16;&#x7801;&#x8bf4;&#x6cd5;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_465442463" MODIFIED="1557728889475" TEXT="springcache&#x7684;&#x7528;&#x6cd5;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7f16;&#x7a0b;&#x5f0f;&#x7528;&#x6cd5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="cache&#x7ba1;&#x7406;&#x5668;&#x7684;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="cache&#x6807;&#x7b7e;&#x7684;&#x7528;&#x6cd5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6807;&#x7b7e;&#x89e3;&#x6790;&#xff1a;key&#x751f;&#x6210;&#x673a;&#x5236;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6807;&#x7b7e;&#x89e3;&#x6790;&#xff1a;&#x5e26;&#x6761;&#x4ef6;&#x7f13;&#x5b58;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6807;&#x7b7e;&#x89e3;&#x6790;&#xff1a;spel&#x8868;&#x8fbe;&#x5f0f;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_151324340" MODIFIED="1557728889475" TEXT="&#x7f13;&#x5b58;&#x7684;&#x4e00;&#x81f4;&#x6027;&#x7b56;&#x7565;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7f13;&#x5b58;&#x5bfc;&#x81f4;&#x7684;&#x4e0d;&#x4e00;&#x81f4;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5b9e;&#x65f6;&#x66f4;&#x65b0;&#x7b56;&#x7565;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x51c6;&#x5b9e;&#x65f6;&#x66f4;&#x65b0;&#x7b56;&#x7565;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5931;&#x6548;&#x673a;&#x5236;&#x7b56;&#x7565;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5b9a;&#x65f6;&#x4efb;&#x52a1;&#x66f4;&#x65b0;&#x7b56;&#x7565;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1700578024" MODIFIED="1557728889476" TEXT="&#x7f13;&#x5b58;&#x96ea;&#x5d29;&#x65b9;&#x6848;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x7f13;&#x5b58;&#x96ea;&#x5d29;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x96ea;&#x5d29;&#x7684;&#x9884;&#x9632;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x96ea;&#x5d29;&#x540e;&#x9650;&#x6d41;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_605666819" MODIFIED="1557728889477" TEXT="&#x7f13;&#x5b58;&#x7a7f;&#x900f;&#x65b9;&#x6848;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x51fb;&#x7a7f;&#x7684;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x7f13;&#x5b58;&#x7a7a;&#x6570;&#x636e;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5e03;&#x9686;&#x8fc7;&#x6ee4;&#x5668;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1123264139" MODIFIED="1557801288316" TEXT="&#x9ad8;&#x53ef;&#x9760;&#x6570;&#x636e;&#x5b58;&#x50a8;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_993045946" MODIFIED="1557728889480" TEXT="Mysql&#x9ad8;&#x6027;&#x80fd;&#x5b58;&#x50a8;&#x5b9e;&#x6218;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1929443062" MODIFIED="1557728889478" TEXT="Mysql">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Mysql&#x4e3b;&#x4ece;&#x590d;&#x5236;&#x3001;&#x8bfb;&#x5199;&#x5206;&#x79bb;&#x9ad8;&#x53ef;&#x7528;&#x65b9;&#x6848;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Mysql+Keepalived&#x5b9e;&#x73b0;&#x53cc;&#x4e3b;&#x9ad8;&#x53ef;&#x7528;&#x65b9;&#x6848;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Mysql&#x5b9e;&#x73b0;&#x5206;&#x5e93;&#x5206;&#x8868;&#x9ad8;&#x6027;&#x80fd;&#x89e3;&#x51b3;&#x65b9;&#x6848;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1380959160" MODIFIED="1557728889479" TEXT="Mycat">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Mycat&#x7b80;&#x4ecb;&#x53ca;&#x7528;&#x9014;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x57fa;&#x4e8e;Mycat&#x5b9e;&#x73b0;Mysql&#x8bfb;&#x5199;&#x5206;&#x79bb;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x57fa;&#x4e8e;Mycat&#x5b9e;&#x73b0;&#x6570;&#x636e;&#x5e93;&#x5207;&#x5206;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5168;&#x5c40;&#x8868;&#x3001;ER&#x8868;&#x3001;&#x5206;&#x7247;&#x673a;&#x5236;&#x5206;&#x6790;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1599379826" MODIFIED="1557728889481" TEXT="FastDFS&#x5206;&#x5e03;&#x5f0f;&#x6587;&#x4ef6;&#x5b58;&#x50a8;&#x5b9e;&#x6218;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6587;&#x4ef6;&#x5b58;&#x50a8;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6587;&#x4ef6;&#x540c;&#x6b65;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6587;&#x4ef6;&#x67e5;&#x8be2;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x90e8;&#x7f72;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1090961862" MODIFIED="1557801291532" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x5e38;&#x89c1;&#x573a;&#x666f;&#x89e3;&#x51b3;&#x65b9;&#x6848;&#x5b9e;&#x6218;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_152580379" MODIFIED="1557728889482" TEXT="&#x4e8b;&#x52a1;&#x6982;&#x5ff5;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e8b;&#x52a1;&#x4e0e;&#x9501;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x4e8b;&#x52a1;&#x4ea7;&#x751f;&#x80cc;&#x666f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="X/OpenDTP&#x4e8b;&#x52a1;&#x6a21;&#x578b;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6807;&#x51c6;&#x5206;&#x5e03;&#x5f0f;&#x4e8b;&#x52a1;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1439992556" MODIFIED="1557728889482" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x4e8b;&#x52a1;&#x89e3;&#x51b3;&#x65b9;&#x6848;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x4e24;&#x9636;&#x6bb5;&#x63d0;&#x4ea4;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="BASE&#x7406;&#x8bba;&#x4e0e;&#x67d4;&#x6027;&#x4e8b;&#x52a1;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="TCC&#x65b9;&#x6848;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x8865;&#x507f;&#x6027;&#x65b9;&#x6848;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5f02;&#x6b65;&#x786e;&#x4fdd;&#x578b;&#x4e0e;&#x6700;&#x5927;&#x52aa;&#x529b;&#x578b;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1142264416" MODIFIED="1557728889483" TEXT="&#x5355;&#x70b9;&#x767b;&#x9646;&#x65b9;&#x6848;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5355;&#x70b9;&#x767b;&#x9646;&#x7684;&#x95ee;&#x9898;&#x80cc;&#x666f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x9875;&#x9762;&#x8de8;&#x57df;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Session&#x8de8;&#x57df;&#x5171;&#x4eab;&#x65b9;&#x6848;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="session&#x7684;&#x6269;&#x5c55;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1100377487" MODIFIED="1557728889483" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x4efb;&#x52a1;&#x8c03;&#x5ea6;&#x65b9;&#x6848;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Quartz&#x8c03;&#x5ea6;&#x7684;&#x7528;&#x6cd5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Elastic-Job&#x793a;&#x4f8b;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x8c03;&#x5ea6;&#x7684;&#x7591;&#x96be;&#x70b9;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="Quartz&#x96c6;&#x7fa4;&#x5b9a;&#x5236;&#x5316;&#x5206;&#x5e03;&#x5f0f;&#x8c03;&#x5ea6;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005276" ID="ID_616231973" MODIFIED="1557801298145" POSITION="left" TEXT="&#x5fae;&#x670d;&#x52a1;&#x67b6;&#x6784;&#x4e13;&#x9898;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_654944166" MODIFIED="1557801303300" TEXT="RPC&#x539f;&#x7406;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="RMI&#x7684;&#x5b9e;&#x73b0;"/>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_1605216633" MODIFIED="1557728889485" TEXT="&#x539f;&#x7406;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x670d;&#x52a1;&#x6ce8;&#x518c;&#x4e0e;&#x53d1;&#x5e03;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x52a8;&#x6001;&#x4ee3;&#x7406;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5e8f;&#x5217;&#x5316;&#x4e0e;&#x53cd;&#x5c04;"/>
+</node>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x624b;&#x5199;RPC&#x6846;&#x67b6;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_101302419" MODIFIED="1557728889489" TEXT="Dubbo&#x5e94;&#x7528;&#x53ca;&#x6e90;&#x7801;&#x89e3;&#x8bfb;">
+<node CREATED="1557728005276" FOLDED="true" ID="ID_78716794" MODIFIED="1557728889487" TEXT="dubbo&#x7b80;&#x4ecb;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x4e2d;rpc&#x8c03;&#x7528;&#x7684;&#x75db;&#x70b9;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="dubbo&#x4e3b;&#x8981;&#x89e3;&#x51b3;&#x54ea;&#x4e9b;rpc&#x95ee;&#x9898;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="dubbo&#x6d89;&#x53ca;&#x7684;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="dubbo&#x7684;&#x90e8;&#x7f72;&#x5b89;&#x88c5;"/>
+</node>
+<node CREATED="1557728005276" FOLDED="true" ID="ID_730098592" MODIFIED="1557728889487" TEXT="dubbo&#x7684;&#x914d;&#x7f6e;&#x4f7f;&#x7528;">
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="xml&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="&#x6ce8;&#x89e3;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005276" MODIFIED="1557728005276" TEXT="api&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005276" ID="ID_ed0fefb42c949e70ba8840ba3670b36a" MODIFIED="1557728005276" TEXT="dubbo&#x4e2d;&#x5404;&#x5143;&#x7d20;&#x5c5e;&#x6027;&#x5b66;&#x4e60;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_712365362" MODIFIED="1557728889488" TEXT="dubbo&#x5728;&#x9879;&#x76ee;&#x7684;&#x7528;&#x6cd5;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7c7b;&#x4e0e;&#x7c7b;&#x7684;&#x4f9d;&#x8d56;&#x5173;&#x7cfb;&#x8bf4;&#x660e;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x9879;&#x76ee;&#x4e4b;&#x95f4;&#x7684;&#x4f9d;&#x8d56;&#x5212;&#x5206;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5b9e;&#x6218;&#x62c6;&#x89e3;&#x5206;&#x5e03;&#x5f0f;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_335215198" MODIFIED="1557728889488" TEXT="dubbo&#x6e90;&#x7801;&#x89e3;&#x6790;&#x4e0e;&#x793a;&#x4f8b;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="dubbo&#x7684;&#x6a21;&#x5757;&#x53ca;&#x5c42;&#x7ea7;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="dubbo&#x7684;&#x521d;&#x59cb;&#x5316;&#x8fc7;&#x7a0b;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="dubbo&#x7684;&#x670d;&#x52a1;&#x66b4;&#x9732;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="dubbo&#x7684;&#x670d;&#x52a1;&#x5f15;&#x7528;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="dubbo&#x7684;&#x670d;&#x52a1;&#x62e6;&#x622a;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x670d;&#x52a1;&#x7684;&#x6ce8;&#x518c;&#x4e0e;&#x53d1;&#x73b0;"/>
+</node>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1506669534" MODIFIED="1557728889493" TEXT="SpringBoot&#x5e95;&#x5c42;&#x63a2;&#x6790;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_687493740" MODIFIED="1557728889490" TEXT="SpringBoot&#x5feb;&#x901f;&#x5165;&#x95e8;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="SpringBoot&#x4e0e;&#x5fae;&#x670d;&#x52a1;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x7cfb;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x73af;&#x5883;&#x642d;&#x5efa;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x96c6;&#x6210;springmvc"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x96c6;&#x6210;mybatis"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6574;&#x5408;&#x65e5;&#x5fd7;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x96c6;&#x6210;jsp"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5168;&#x5c40;&#x5f02;&#x5e38;&#x6355;&#x83b7;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6253;&#x5305;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x70ed;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x96c6;&#x6210;Swagger2&#x6784;&#x5efa;API&#x7ba1;&#x7406;&#x4f53;&#x7cfb;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_7300106" MODIFIED="1557728889491" TEXT="&#x8fdb;&#x9636;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1749228694" MODIFIED="1557728889490" TEXT="&#x6838;&#x5fc3;&#x7ec4;&#x4ef6;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="starter"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="actuator"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="auto-configuration"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="cli"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_361458128" MODIFIED="1557728889491" TEXT="&#x6027;&#x80fd;&#x4f18;&#x5316;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="jvm&#x53c2;&#x6570;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x626b;&#x5305;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="undertow&#x5bb9;&#x5668;"/>
+</node>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="jta+atomikos&#x5206;&#x5e03;&#x5f0f;&#x4e8b;&#x52a1;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_972018478" MODIFIED="1557728889492" TEXT="SpringBoot&#x6838;&#x5fc3;&#x539f;&#x7406;&#x5b9e;&#x6218;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="@SpringBootApplication&#x6e90;&#x7801;&#x89e3;&#x8bfb;"/>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1372395141" MODIFIED="1557728889492" TEXT="&#x7eaf;&#x624b;&#x5199;&#x6253;&#x9020;SpringBoot&#x96cf;&#x5f62;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6846;&#x67b6;&#x6574;&#x5408;&#x4e1a;&#x52a1;&#x903b;&#x8f91;&#x5c42;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6574;&#x5408;jsp&#x89c6;&#x56fe;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5185;&#x7f6e;&#x96c6;&#x6210;tomcat"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_88528334" MODIFIED="1557728889494" TEXT="SpringCloud&#x9ad8;&#x7ea7;&#x8fdb;&#x9636;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Zuul&#x8def;&#x7531;&#x7f51;&#x5173;&#x8be6;&#x89e3;&#x53ca;&#x6e90;&#x7801;&#x63a2;&#x6790;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Ribbon&#x5ba2;&#x6237;&#x7aef;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x539f;&#x7406;&#x4e0e;&#x7b97;&#x6cd5;&#x8be6;&#x89e3;&#xff0c;&#x4e0e;&#x670d;&#x52a1;&#x7aef;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x533a;&#x522b;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Feign&#x58f0;&#x660e;&#x5f0f;&#x670d;&#x52a1;&#x8c03;&#x7528;&#x65b9;&#x5f0f;&#x5b9e;&#x73b0;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Hystrix&#x670d;&#x52a1;&#x7194;&#x65ad;&#x53ca;&#x670d;&#x52a1;&#x964d;&#x7ea7;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Eureka&#x6ce8;&#x518c;&#x4e2d;&#x5fc3;&#x6784;&#x4ef6;&#x5206;&#x6790;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Config&#x914d;&#x7f6e;&#x670d;&#x52a1;&#x4e2d;&#x5fc3;&#x4e0e;svn&#x3001;git&#x5feb;&#x901f;&#x96c6;&#x6210;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="BUS&#x6d88;&#x606f;&#x603b;&#x7ebf;&#x6280;&#x672f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Sleuth&#x8c03;&#x7528;&#x94fe;&#x8def;&#x8ddf;&#x8e2a;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Stream &#x6d88;&#x606f;&#x9a71;&#x52a8;&#x7684;&#x5fae;&#x670d;&#x52a1;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1028900344" MODIFIED="1557728889495" TEXT="Docker&#x865a;&#x62df;&#x5316;&#x6280;&#x672f;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker&#x4ecb;&#x7ecd;&#x3001;&#x5b89;&#x88c5;&#x4e0e;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_516009361" MODIFIED="1557728889494" TEXT="Docker&#x7ec4;&#x6210;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x955c;&#x50cf;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5bb9;&#x5668;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x79c1;&#x6709;&#x4ed3;&#x5e93;"/>
+</node>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker Compose&#x90e8;&#x7f72;&#x811a;&#x672c;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker Service &#x670d;&#x52a1;&#x7f16;&#x6392;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker Redis&#x5206;&#x5e03;&#x5f0f;&#x96c6;&#x7fa4;&#x90e8;&#x7f72;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker File&#x6784;&#x5efa;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x901a;&#x8fc7;Maven&#x63d2;&#x4ef6;&#x6253;&#x5305;Docker&#x955c;&#x50cf;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Docker&#x90e8;&#x7f72;&#x53ca;&#x8fd0;&#x884c;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Kubernetes&#x7f16;&#x914d;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x57fa;&#x4e8e;Docker&#x6784;&#x5efa;Mysql&#x96c6;&#x7fa4;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x9ad8;&#x53ef;&#x7528;SpringCloud&#x5fae;&#x670d;&#x52a1;&#x4e0e;Docker&#x96c6;&#x6210;&#x5b9e;&#x73b0;&#x52a8;&#x6001;&#x6269;&#x5bb9;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_562498034" MODIFIED="1557728889501" POSITION="right" TEXT="B2C&#x5546;&#x57ce;&#x9879;&#x76ee;&#x5b9e;&#x6218;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1490248127" MODIFIED="1557728889496" TEXT="&#x7cfb;&#x7edf;&#x8bbe;&#x8ba1;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x67b6;&#x6784;&#x8bbe;&#x8ba1;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6570;&#x636e;&#x5e93;&#x8bbe;&#x8ba1;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x90e8;&#x7f72;&#x8bbe;&#x8ba1;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x57fa;&#x7840;&#x5f00;&#x53d1;&#x6846;&#x67b6;&#x8bb2;&#x89e3;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_565948364" MODIFIED="1557728889497" TEXT="&#x7528;&#x6237;&#x7ba1;&#x7406;&#x5b50;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7528;&#x6237;&#x6ce8;&#x518c; &#x767b;&#x5f55;&#xff08;&#x4e8c;&#x7ef4;&#x7801;&#x6280;&#x672f;&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6743;&#x9650;&#x63a7;&#x5236;&#xff08;shiro&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5355;&#x70b9;&#x767b;&#x5f55;&#xff08;session&#x7edf;&#x4e00;&#x7f13;&#x5b58;&#x3001;sso&#xff09;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_985228039" MODIFIED="1557728889497" TEXT="&#x5546;&#x54c1;&#x7ba1;&#x7406;&#x5b50;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5546;&#x54c1;&#x7ba1;&#x7406;&#xff08;mongodb&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5546;&#x54c1;&#x5206;&#x7c7b;&#xff08;mongodb&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5546;&#x54c1;&#x53d1;&#x5e03;&#xff08;nosql&#x4e0e;mysql&#x6570;&#x636e;&#x540c;&#x6b65;&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x70ed;&#x5356;&#x5546;&#x54c1;&#x6392;&#x884c;&#xff08;redis&#xff09;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_780980874" MODIFIED="1557728889498" TEXT="&#x641c;&#x7d22;&#x5b50;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x57fa;&#x4e8e;ElasticSearch&#x641c;&#x7d22;&#x5f15;&#x64ce;&#x7684;&#x5168;&#x6587;&#x68c0;&#x7d22;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x68c0;&#x7d22;&#x9700;&#x6c42;&#x5206;&#x6790;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x68c0;&#x7d22;&#x7b56;&#x7565;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7d22;&#x5f15;&#x8bbe;&#x7f6e;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5206;&#x8bcd;&#x7b97;&#x6cd5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x547d;&#x4e2d;&#x7387;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x8ba2;&#x5355;&#x5b9e;&#x65f6;&#x7edf;&#x8ba1;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_875954829" MODIFIED="1557728889498" TEXT="&#x8ba2;&#x5355;&#x5b50;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x73af;&#x5883;&#x751f;&#x6210;&#x552f;&#x4e00;&#x7f16;&#x53f7;&#xff08;ZooKeeper&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4e0b;&#x5355;&#x4e1a;&#x52a1;&#x6d41;&#x7a0b;&#xff08;&#x6d88;&#x606f;&#x4e2d;&#x95f4;&#x4ef6;&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x8ba2;&#x5355;&#x53ef;&#x9760;&#x6027;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x79d2;&#x6740;&#x529f;&#x80fd;&#xff08;Redis&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x8ba2;&#x5355;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x8d2d;&#x7269;&#x8f66;&#x529f;&#x80fd;&#xff08;MongoDB&#xff09;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1080024499" MODIFIED="1557728889499" TEXT="&#x652f;&#x4ed8;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5fae;&#x4fe1;&#x652f;&#x4ed8;&#x5bf9;&#x63a5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x652f;&#x4ed8;&#x5b9d;&#x5bf9;&#x63a5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x94f6;&#x8054;&#x5bf9;&#x63a5;&#x5f00;&#x53d1;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1469543335" MODIFIED="1557728889499" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x8c03;&#x5ea6;&#x7cfb;&#x7edf; ">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6570;&#x636e;&#x7edf;&#x8ba1;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6570;&#x636e;&#x540c;&#x6b65;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4efb;&#x52a1;&#x8c03;&#x5ea6;&#x914d;&#x7f6e;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_307618704" MODIFIED="1557728889500" TEXT="&#x540e;&#x53f0;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x65e5;&#x5e38;&#x7ba1;&#x7406;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5728;&#x7ebf;IM&#x7cfb;&#x7edf; &#xff08;WebSocket NIO&#xff09;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7528;&#x6237;&#x884c;&#x4e3a;&#x5206;&#x6790;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x62a5;&#x8868;&#x5927;&#x6570;&#x636e;&#x67e5;&#x8be2;&#x4f18;&#x5316;"/>
+</node>
+</node>
+<node CREATED="1557728005277" ID="ID_1710692640" MODIFIED="1557801304969" POSITION="left" TEXT="&#x67b6;&#x6784;&#x5e08;&#x7b51;&#x57fa;&#x4e13;&#x9898;">
+<node CREATED="1557728005277" ID="ID_1811130367" MODIFIED="1557740975983" TEXT="&#x624e;&#x5b9e;Java&#x57fa;&#x7840;">
+<node CREATED="1557728005277" ID="ID_586919266" MODIFIED="1557801313537" TEXT="&#x5e76;&#x53d1;&#x7f16;&#x7a0b;&#x8fdb;&#x9636;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1307048600" MODIFIED="1557741078867" TEXT="1&#x3001;&#x7ebf;&#x7a0b;&#x57fa;&#x7840;&#x3001;&#x7ebf;&#x7a0b;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1180569517" MODIFIED="1557741077995" TEXT="&#x4e4b;&#x95f4;&#x7684;&#x5171;&#x4eab;&#x548c;&#x534f;&#x4f5c;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1160132085" MODIFIED="1557728889501" TEXT="&#x57fa;&#x7840;&#x6982;&#x5ff5;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CPU&#x6838;&#x5fc3;&#x6570;&#xff0c;&#x7ebf;&#x7a0b;&#x6570;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CPU&#x65f6;&#x95f4;&#x7247;&#x8f6e;&#x8f6c;&#x673a;&#x5236;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x8fdb;&#x7a0b;&#x548c;&#x7ebf;&#x7a0b;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x5e76;&#x884c;&#x548c;&#x5e76;&#x53d1;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x9ad8;&#x5e76;&#x53d1;&#x7f16;&#x7a0b;&#x7684;&#x610f;&#x4e49;&#x3001;&#x597d;&#x5904;&#x548c;&#x6ce8;&#x610f;&#x4e8b;&#x9879;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_708360556" MODIFIED="1557728889502" TEXT="&#x542f;&#x52a8;&#x548c;&#x7ec8;&#x6b62;&#x7ebf;&#x7a0b;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4e09;&#x79cd;&#x542f;&#x52a8;&#x7ebf;&#x7a0b;&#x7684;&#x65b9;&#x5f0f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7406;&#x89e3;&#x4e2d;&#x65ad;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5982;&#x4f55;&#x5b89;&#x5168;&#x7684;&#x7ec8;&#x6b62;&#x7ebf;&#x7a0b;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_399534262" MODIFIED="1557728889502" TEXT="&#x7ebf;&#x7a0b;&#x518d;&#x8ba4;&#x8bc6;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7ebf;&#x7a0b;&#x5e38;&#x7528;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7ebf;&#x7a0b;&#x7684;&#x72b6;&#x6001;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7ebf;&#x7a0b;&#x7684;&#x4f18;&#x5148;&#x7ea7;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Demon&#x7ebf;&#x7a0b;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1859083506" MODIFIED="1557728889504" TEXT="&#x7ebf;&#x7a0b;&#x95f4;&#x7684;&#x5171;&#x4eab;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1986386245" MODIFIED="1557728889503" TEXT="synchronized">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5bf9;&#x8c61;&#x9501;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7c7b;&#x9501;"/>
+</node>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="volatile"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="ThreadLocal"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_134450292" MODIFIED="1557728889504" TEXT="&#x7ebf;&#x7a0b;&#x95f4;&#x534f;&#x4f5c;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Wait,Notify/NotifyAll"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x7b49;&#x5f85;&#x548c;&#x901a;&#x77e5;&#x7684;&#x6807;&#x51c6;&#x8303;&#x5f0f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="notify&#x548c;notifyAll&#x5e94;&#x8be5;&#x7528;&#x8c01;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Join&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x8c03;&#x7528;yield() &#x3001;sleep()&#x3001;&#xb;wait()&#x3001;notify()&#x7b49;&#x65b9;&#x6cd5;&#x5bf9;&#x9501;&#x6709;&#x4f55;&#x5f71;&#x54cd;&#xff1f;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_736619023" MODIFIED="1557741091331" TEXT="2&#x3001;&#x7ebf;&#x7a0b;&#x7684;&#x5e76;&#x53d1;&#x5de5;&#x5177;&#x7c7b;">
+<node CREATED="1557728005277" FOLDED="true" ID="ID_1297338717" MODIFIED="1557728889506" TEXT="Fork/Join">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x5206;&#x800c;&#x6cbb;&#x4e4b;&#xff1f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5de5;&#x4f5c;&#x5bc6;&#x53d6;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4f7f;&#x7528;&#x7684;&#x6807;&#x51c6;&#x8303;&#x5f0f;"/>
+</node>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CountDownLatch&#x4f5c;&#x7528;&#x3001;&#x5e94;&#x7528;&#x573a;&#x666f;&#x548c;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CyclicBarrier&#x4f5c;&#x7528;&#x3001;&#x5e94;&#x7528;&#x573a;&#x666f;&#x548c;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CountDownLatch&#x548c;CyclicBarrier&#x8fa8;&#x6790;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Semaphore&#x4f5c;&#x7528;&#x3001;&#x5e94;&#x7528;&#x573a;&#x666f;&#x548c;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Exchange&#x4f5c;&#x7528;&#x3001;&#x5e94;&#x7528;&#x573a;&#x666f;&#x548c;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Callable&#x3001;Future&#x548c;FutureTask"/>
+</node>
+<node CREATED="1557728005277" ID="ID_478984307" MODIFIED="1557741092605" TEXT="3&#x3001;&#x539f;&#x5b50;&#x64cd;&#x4f5c;CAS">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="CAS&#x7684;&#x539f;&#x7406;"/>
+<node CREATED="1557728005277" ID="ID_771981206" MODIFIED="1557741094213" TEXT="CAS&#x7684;&#x95ee;&#x9898;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="ABA&#x95ee;&#x9898;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5f00;&#x9500;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x53ea;&#x80fd;&#x4fdd;&#x8bc1;&#x4e00;&#x4e2a;&#x5171;&#x4eab;&#x53d8;&#x91cf;&#x7684;&#x539f;&#x5b50;&#x64cd;&#x4f5c;"/>
+</node>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_974672474" MODIFIED="1557801321589" TEXT="&#x539f;&#x5b50;&#x64cd;&#x4f5c;&#x7c7b;&#x7684;&#x4f7f;&#x7528;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x57fa;&#x672c;&#x7c7b;&#x578b;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x6570;&#x7ec4;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5f15;&#x7528;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5e26;&#x7248;&#x672c;&#x6233;"/>
+</node>
+</node>
+<node CREATED="1557728005277" ID="ID_759320613" MODIFIED="1557741104277" TEXT="4&#x3001;&#x663e;&#x5f0f;&#x9501;&#x548c;AQS">
+<node CREATED="1557728005277" ID="ID_1545325604" MODIFIED="1557741105823" TEXT="&#x663e;&#x5f0f;&#x9501;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Lock&#x63a5;&#x53e3;&#x3001;&#x6838;&#x5fc3;&#x65b9;&#x6cd5;&#x548c;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Lock&#x63a5;&#x53e3;&#x548c;synchronized&#x7684;&#x6bd4;&#x8f83;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="ReentrantLock&#x53ef;&#x91cd;&#x5165;&#x9501;&#x4e0e;&#x9501;&#x7684;&#x516c;&#x5e73;&#x548c;&#x975e;&#x516c;&#x5e73;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="ReentrantReadWriteLock&#x4f7f;&#x7528;&#x573a;&#x666f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="Condition&#x7528;&#x6cd5;"/>
+</node>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="LockSupport&#x5de5;&#x5177;&#x8fdb;&#x9636;"/>
+<node CREATED="1557728005277" FOLDED="true" ID="ID_653769938" MODIFIED="1557741129474" TEXT="AbstractQueuedSynchronizer&#x5b9e;&#x73b0;&#x53ca;&#x6e90;&#x7801;&#x5206;&#x6790;">
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4ec0;&#x4e48;&#x662f;AQS&#xff1f;&#x5b66;&#x4e60;&#x5b83;&#x7684;&#x5fc5;&#x8981;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="AQS&#x4f7f;&#x7528;&#x65b9;&#x5f0f;&#x548c;&#x5176;&#x4e2d;&#x7684;&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x4e86;&#x89e3;&#x5176;&#x4e2d;&#x7684;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="&#x5b9e;&#x73b0;&#x4e00;&#x4e2a;&#x81ea;&#x5df1;&#x7684;&#x72ec;&#x5360;&#x9501; "/>
+<node CREATED="1557728005277" MODIFIED="1557728005277" TEXT="AQS&#x4e2d;&#x7684;&#x6570;&#x636e;&#x7ed3;&#x6784;"/>
+<node CREATED="1557728005277" ID="ID_54a6ed9613c57ea0a8faddbe0c215920" MODIFIED="1557728005277" TEXT="&#x8282;&#x70b9;&#x5728;&#x540c;&#x6b65;&#x961f;&#x5217;&#x4e2d;&#x7684;&#x589e;&#x52a0;&#x548c;&#x79fb;&#x51fa;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x72ec;&#x5360;&#x5f0f;&#x540c;&#x6b65;&#x72b6;&#x6001;&#x83b7;&#x53d6;&#x4e0e;&#x91ca;&#x653e;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5171;&#x4eab;&#x5f0f;&#x540c;&#x6b65;&#x72b6;&#x6001;&#x83b7;&#x53d6;&#x4e0e;&#x91ca;&#x653e;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1206314260" MODIFIED="1557741118299" TEXT="Condition&#x5206;&#x6790;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7b49;&#x5f85;&#x961f;&#x5217;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="await&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="signal&#x65b9;&#x6cd5;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6df1;&#x5165;&#x6e90;&#x7801;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_886331465" MODIFIED="1557741122915" TEXT="&#x4e86;&#x89e3;ReentrantLock&#x7684;&#x5b9e;&#x73b0;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x9501;&#x7684;&#x53ef;&#x91cd;&#x5165;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x516c;&#x5e73;&#x548c;&#x975e;&#x516c;&#x5e73;&#x9501;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4e86;&#x89e3;ReentrantReadWriteLock&#x7684;&#x5b9e;&#x73b0;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_828133890" MODIFIED="1557741140579" TEXT="5&#x3001;&#x5e76;&#x53d1;&#x5bb9;&#x5668;">
+<node CREATED="1557728005278" FOLDED="true" ID="ID_530037442" MODIFIED="1557728889513" TEXT="ConcurrentHashMap">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1224472294" MODIFIED="1557728889513" TEXT="&#x5b9e;&#x73b0;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x57fa;&#x672c;&#x601d;&#x60f3;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1820662026" MODIFIED="1557728889511" TEXT="&#x9884;&#x5907;&#x77e5;&#x8bc6;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="Hash"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f4d;&#x8fd0;&#x7b97;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1664500561" MODIFIED="1557728889512" TEXT="jdk1.7">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6784;&#x9020;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5982;&#x4f55;&#x5b9a;&#x4f4d;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="get&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="put&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6269;&#x5bb9;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_892374518" MODIFIED="1557728889512" TEXT="jdk1.8">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6784;&#x9020;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5982;&#x4f55;&#x5b9a;&#x4f4d;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="get&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="put&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6269;&#x5bb9;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_882641319" MODIFIED="1557728889514" TEXT="&#x5176;&#x4ed6;&#x5e76;&#x53d1;&#x5bb9;&#x5668;">
+<node CREATED="1557728005278" FOLDED="true" ID="ID_406058929" MODIFIED="1557728889513" TEXT="ConcurrentSkipListMap&#x7b49;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4e86;&#x89e3;&#x4ec0;&#x4e48;&#x662f;SkipList"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="ConcurrentLinkedQueue  "/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5199;&#x65f6;&#x590d;&#x5236;&#x5bb9;&#x5668;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_732385374" MODIFIED="1557728889515" TEXT="&#x963b;&#x585e;&#x961f;&#x5217;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x751f;&#x4ea7;&#x8005;&#x6d88;&#x8d39;&#x8005;&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5e38;&#x7528;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1169457857" MODIFIED="1557728889514" TEXT="&#x5e38;&#x7528;&#x963b;&#x585e;&#x961f;&#x5217;&#x8fa8;&#x6790;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;ArrayBlockingQueue&#xff1a;&#x4e00;&#x4e2a;&#x7531;&#x6570;&#x7ec4;&#x7ed3;&#x6784;&#x7ec4;&#x6210;&#x7684;&#x6709;&#x754c;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+</node>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;LinkedBlockingQueue&#xff1a;&#x4e00;&#x4e2a;&#x7531;&#x94fe;&#x8868;&#x7ed3;&#x6784;&#x7ec4;&#x6210;&#x7684;&#x6709;&#x754c;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;PriorityBlockingQueue&#xff1a;&#x4e00;&#x4e2a;&#x652f;&#x6301;&#x4f18;&#x5148;&#x7ea7;&#x6392;&#x5e8f;&#x7684;&#x65e0;&#x754c;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;DelayQueue&#xff1a;&#x4e00;&#x4e2a;&#x4f7f;&#x7528;&#x4f18;&#x5148;&#x7ea7;&#x961f;&#x5217;&#x5b9e;&#x73b0;&#x7684;&#x65e0;&#x754c;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;SynchronousQueue&#xff1a;&#x4e00;&#x4e2a;&#x4e0d;&#x5b58;&#x50a8;&#x5143;&#x7d20;&#x7684;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#xb7;LinkedTransferQueue&#xff1a;&#x4e00;&#x4e2a;&#x7531;&#x94fe;&#x8868;&#x7ed3;&#x6784;&#x7ec4;&#x6210;&#x7684;&#x65e0;&#x754c;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_394032871" MODIFIED="1557728889515" TEXT="&#xb7;LinkedBlockingDeque&#xff1a;&#x4e00;&#x4e2a;&#x7531;&#x94fe;&#x8868;&#x7ed3;&#x6784;&#x7ec4;&#x6210;&#x7684;&#x53cc;&#x5411;&#x963b;&#x585e;&#x961f;&#x5217;&#x3002;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5ef6;&#x65f6;&#x961f;&#x5217;&#x5b9e;&#x6218;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x963b;&#x585e;&#x961f;&#x5217;&#x5b9e;&#x73b0;&#x539f;&#x7406;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_378035128" MODIFIED="1557741148475" TEXT="6&#x3001;&#x7ebf;&#x7a0b;&#x6c60;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x7ebf;&#x7a0b;&#x6c60;&#xff1f;&#x4e3a;&#x4ec0;&#x4e48;&#x8981;&#x7528;&#x7ebf;&#x7a0b;&#x6c60;&#xff1f;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5b9e;&#x73b0;&#x4e00;&#x4e2a;&#x6211;&#x4eec;&#x81ea;&#x5df1;&#x7684;&#x7ebf;&#x7a0b;&#x6c60;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1553290713" MODIFIED="1557741147491" TEXT="JDK&#x4e2d;&#x7684;&#x7ebf;&#x7a0b;&#x6c60;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7ebf;&#x7a0b;&#x6c60;&#x7684;&#x521b;&#x5efa;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x63d0;&#x4ea4;&#x4efb;&#x52a1;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5173;&#x95ed;&#x7ebf;&#x7a0b;&#x6c60;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7ebf;&#x7a0b;&#x6c60;&#x5de5;&#x4f5c;&#x673a;&#x5236;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5408;&#x7406;&#x914d;&#x7f6e;&#x7ebf;&#x7a0b;&#x6c60;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1357918843" MODIFIED="1557728889522" TEXT="&#x7cfb;&#x7edf;&#x4e3a;&#x6211;&#x4eec;&#x9884;&#x5b9a;&#x4e49;&#x7684;&#x7ebf;&#x7a0b;&#x6c60;">
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1850678475" MODIFIED="1557728889517" TEXT="FixedThreadPool&#xa;SingleThreadExecutor&#xa;CachedThreadPool&#xa;WorkStealingPool">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x542b;&#x4e49;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f7f;&#x7528;&#x573a;&#x666f;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1936456225" MODIFIED="1557728889521" TEXT="ScheduledThreadPoolExecutor">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x542b;&#x4e49;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f7f;&#x7528;&#x573a;&#x666f;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5185;&#x90e8;&#x65b9;&#x6cd5;&#x8fa8;&#x6790;"/>
+</node>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="Executor&#x6846;&#x67b6;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1663897171" MODIFIED="1557728889523" TEXT="CompletionService">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f18;&#x70b9;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1680757647" MODIFIED="1557728889526" TEXT="7&#x3001;&#x5e76;&#x53d1;&#x5b89;&#x5168;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7c7b;&#x7684;&#x7ebf;&#x7a0b;&#x5b89;&#x5168;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_909579114" MODIFIED="1557728889524" TEXT="&#x5982;&#x4f55;&#x505a;&#x5230;&#x7c7b;&#x7684;&#x7ebf;&#x7a0b;&#x5b89;&#x5168;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x65e0;&#x72b6;&#x6001;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x8ba9;&#x7c7b;&#x4e0d;&#x53ef;&#x53d8;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x66f4;&#x591a;......"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_451463653" MODIFIED="1557728889526" TEXT="&#x7ebf;&#x7a0b;&#x4e0d;&#x5b89;&#x5168;&#x5f15;&#x53d1;&#x7684;&#x95ee;&#x9898;">
+<node CREATED="1557728005278" FOLDED="true" ID="ID_177364896" MODIFIED="1557728889524" TEXT="&#x6b7b;&#x9501;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x539f;&#x56e0;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x8868;&#x73b0;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x68c0;&#x6d4b;&#x548c;&#x89e3;&#x51b3;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6d3b;&#x9501;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x591a;&#x7ebf;&#x7a0b;&#x7a0b;&#x5e8f;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1767187527" MODIFIED="1557728889525" TEXT="&#x6027;&#x80fd;&#x548c;&#x601d;&#x8003;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5f71;&#x54cd;&#x6027;&#x80fd;&#x7684;&#x56e0;&#x7d20;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x51cf;&#x5c11;&#x9501;&#x7684;&#x7ade;&#x4e89;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1416332657" MODIFIED="1557728889526" TEXT="&#x7ebf;&#x7a0b;&#x5b89;&#x5168;&#x7684;&#x5355;&#x4f8b;&#x6a21;&#x5f0f;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5982;&#x4f55;&#x8ba9;&#x53cc;&#x91cd;&#x68c0;&#x67e5;&#x9501;&#x5b9a;&#x5b89;&#x5168;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x61d2;&#x6c49;&#x5f0f;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x997f;&#x6c49;&#x5f0f;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1252358109" MODIFIED="1557741161243" TEXT="8&#x3001;&#x5b9e;&#x6218;&#x9879;&#x76ee;">
+<node CREATED="1557728005278" ID="ID_1671871115" MODIFIED="1557741152285" TEXT="&#x5e76;&#x53d1;&#x4efb;&#x52a1;&#x6267;&#x884c;&#x6846;&#x67b6;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x9700;&#x6c42;&#x7684;&#x4ea7;&#x751f;&#x548c;&#x5206;&#x6790; "/>
+<node CREATED="1557728005278" ID="ID_1703711655" MODIFIED="1557741153950" TEXT="&#x9700;&#x8981;&#x505a;&#x4ec0;&#x4e48;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5c01;&#x88c5;&#x591a;&#x7ebf;&#x7a0b;&#xff0c;&#x5c4f;&#x853d;&#x7ec6;&#x8282;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4fdd;&#x5b58;&#x4efb;&#x52a1;&#x7684;&#x4e0a;&#x4e0b;&#x6587;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x81ea;&#x52a8;&#x6e05;&#x9664;&#x5df2;&#x5b8c;&#x6210;&#x548c;&#x8fc7;&#x671f;&#x4efb;&#x52a1;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1171681745" MODIFIED="1557728889527" TEXT="&#x5177;&#x4f53;&#x5b9e;&#x73b0;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x53ef;&#x67e5;&#x8be2;&#x8fdb;&#x5ea6;&#x7684;&#x5e76;&#x53d1;&#x4efb;&#x52a1;&#x6267;&#x884c;&#x6846;&#x67b6;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1572271847" MODIFIED="1557741159555" TEXT="&#x5e94;&#x7528;&#x6027;&#x80fd;&#x4f18;&#x5316;&#x5b9e;&#x6218;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x9879;&#x76ee;&#x7b80;&#x4ecb;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x9879;&#x76ee;&#x5206;&#x6790;&#xff0c;&#x4e3a;&#x4f55;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_948577951" MODIFIED="1557728889528" TEXT="&#x5206;&#x6790;&#x548c;&#x6539;&#x8fdb;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x67b6;&#x6784;&#x6539;&#x8fdb;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5355;&#x670d;&#x52a1;&#x6539;&#x8fdb;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5982;&#x4f55;&#x7ee7;&#x7eed;&#x6539;&#x8fdb;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5e26;&#x6765;&#x7684;&#x542f;&#x793a;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1761121892" MODIFIED="1557741167083" TEXT="9&#x3001;JMM&#x548c;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#x539f;&#x7406;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x73b0;&#x4ee3;&#x8ba1;&#x7b97;&#x673a;&#x7269;&#x7406;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1270696688" MODIFIED="1557741165971" TEXT="&#x4e0a;&#x7684;&#x5185;&#x5b58;&#x6a21;&#x578b;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5e26;&#x6765;&#x7684;&#x95ee;&#x9898;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="Java&#x5185;&#x5b58;&#x6a21;&#x578b;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1719873562" MODIFIED="1557728889529" TEXT="&#xff08;JMM&#xff09;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="JVM&#x5bf9;Java&#x5185;&#x5b58;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1356272096" MODIFIED="1557728889531" TEXT="&#x6a21;&#x578b;&#x7684;&#x5b9e;&#x73b0;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5e26;&#x6765;&#x7684;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_388021840" MODIFIED="1557728889530" TEXT="&#x91cd;&#x6392;&#x5e8f;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7c7b;&#x578b;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4f9d;&#x8d56;&#x6027;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="as-if-serial"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x91cd;&#x6392;&#x5e8f;&#x5e26;&#x6765;&#x7684;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5185;&#x5b58;&#x5c4f;&#x969c;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x4e34;&#x754c;&#x533a;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1274300147" MODIFIED="1557728889530" TEXT="Happens-Before">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5b9a;&#x4e49;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x89c4;&#x5219;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1901809470" MODIFIED="1557728889530" TEXT="volatile&#x7684;&#x5185;&#x5b58;&#x8bed;&#x4e49;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6982;&#x5ff5;&#x548c;&#x6df1;&#x5165;&#x7406;&#x89e3;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1547301003" MODIFIED="1557728889530" TEXT="&#x5185;&#x5b58;&#x8bed;&#x4e49;&#x7684;&#x5b9e;&#x73b0;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x91cd;&#x6392;&#x5e8f;&#x89c4;&#x5219;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5185;&#x5b58;&#x5c4f;&#x969c;&#x63d2;&#x5165;&#x7b56;&#x7565;"/>
+</node>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x9501;&#x7684;&#x5185;&#x5b58;&#x8bed;&#x4e49;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="final&#x7684;&#x5185;&#x5b58;&#x8bed;&#x4e49;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="volatile&#x7684;&#x5b9e;&#x73b0;&#x539f;&#x7406;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="synchronized&#x7684;&#x5b9e;&#x73b0;&#x539f;&#x7406;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_501902726" MODIFIED="1557741069707" TEXT="JVM&#x6027;&#x80fd;&#x8c03;&#x4f18;">
+<node CREATED="1557728005278" FOLDED="true" ID="ID_531223614" MODIFIED="1557741046395" TEXT="1&#x3001;Java&#x5185;&#x5b58;&#x533a;&#x57df;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x865a;&#x62df;&#x673a;&#x7684;&#x5386;&#x53f2;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x672a;&#x6765;&#x7684;Java&#x6280;&#x672f;&#x4e00;&#x89c8;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1741010622" MODIFIED="1557741035955" TEXT="&#x8fd0;&#x884c;&#x65f6;&#x6570;&#x636e;&#x533a;&#x57df;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7a0b;&#x5e8f;&#x8ba1;&#x6570;&#x5668;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6808;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5806;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x65b9;&#x6cd5;&#x533a;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x8fd0;&#x884c;&#x65f6;&#x5e38;&#x91cf;&#x6c60;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1313505885" MODIFIED="1557728889533" TEXT="&#x5404;&#x4e2a;&#x7248;&#x672c;&#x5185;&#x5b58;&#x533a;&#x57df;&#x7684;&#x53d8;&#x5316;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="1.6"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="1.7"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="1.8"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x76f4;&#x63a5;&#x5185;&#x5b58;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x7ad9;&#x5728;&#x7ebf;&#x7a0b;&#x89d2;&#x5ea6;&#x6765;&#x770b;&#x5806;&#x548c;&#x6808;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6df1;&#x5165;&#x8fa8;&#x6790;&#x5806;&#x548c;&#x6808;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1390262992" MODIFIED="1557741038098" TEXT="&#x65b9;&#x6cd5;&#x7684;&#x51fa;&#x5165;&#x6808;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6808;&#x6862;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6808;&#x4e0a;&#x5206;&#x914d;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1026535069" MODIFIED="1557741040371" TEXT="&#x865a;&#x62df;&#x673a;&#x4e2d;&#x7684;&#x5bf9;&#x8c61;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5206;&#x914d;&#x8fc7;&#x7a0b;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5185;&#x5b58;&#x5e03;&#x5c40;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5bf9;&#x8c61;&#x7684;&#x8bbf;&#x95ee;&#x5b9a;&#x4f4d;"/>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1511493156" MODIFIED="1557741044931" TEXT="&#x5806;&#x53c2;&#x6570;&#x8bbe;&#x7f6e;&#x548c;&#x5185;&#x5b58;&#x6ea2;&#x51fa;&#x5b9e;&#x6218;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="Java&#x5806;&#x6ea2;&#x51fa;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x65b0;&#x751f;&#x4ee3;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x65b9;&#x6cd5;&#x533a;&#x548c;&#x8fd0;&#x884c;&#x65f6;&#x5e38;&#x91cf;&#x6c60;&#x6ea2;&#x51fa;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x865a;&#x62df;&#x673a;&#x6808;&#x548c;&#x672c;&#x5730;&#x65b9;&#x6cd5;&#x6808;&#x6ea2;&#x51fa;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x672c;&#x673a;&#x76f4;&#x63a5;&#x5185;&#x5b58;&#x6ea2;&#x51fa;"/>
+</node>
+</node>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_434504987" MODIFIED="1557741055763" TEXT="2&#x3001;&#x5783;&#x573e;&#x56de;&#x6536;&#x5668;&#x548c;&#x5185;&#x5b58;&#x5206;&#x914d;&#x7b56;&#x7565;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="GC&#x6982;&#x8ff0;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5224;&#x65ad;&#x5bf9;&#x8c61;&#x7684;&#x5b58;&#x6d3b;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x8fa8;&#x6790;&#x5f3a;&#x3001;&#x5f31;&#x7b49;&#x5404;&#x79cd;&#x5f15;&#x7528;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_518133301" MODIFIED="1557728889536" TEXT="GC&#x7b97;&#x6cd5;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6807;&#x8bb0;-&#x6e05;&#x9664;&#x7b97;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x590d;&#x5236;&#x7b97;&#x6cd5;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x6807;&#x8bb0;-&#x6574;&#x7406;&#x7b97;&#x6cd5;"/>
+</node>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5206;&#x4ee3;&#x6536;&#x96c6;"/>
+<node CREATED="1557728005278" FOLDED="true" ID="ID_1000642296" MODIFIED="1557728889536" TEXT="&#x5783;&#x573e;&#x56de;&#x6536;&#x5668;">
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5783;&#x573e;&#x56de;&#x6536;&#x5668;&#x6982;&#x89c8;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="&#x5783;&#x573e;&#x56de;&#x6536;&#x5668;&#x5de5;&#x4f5c;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005278" MODIFIED="1557728005278" TEXT="G1&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005278" ID="ID_5cef713181f877a4f417cc71133873ff" MODIFIED="1557728005278" TEXT="&#x672a;&#x6765;&#x7684;&#x5783;&#x573e;&#x56de;&#x6536;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Stop The World&#x73b0;&#x8c61;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="GC&#x65e5;&#x5fd7;&#x89e3;&#x8bfb;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5185;&#x5b58;&#x5206;&#x914d;&#x4e0e;&#x56de;&#x6536;&#x7b56;&#x7565;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5185;&#x5b58;&#x6cc4;&#x6f0f;&#x548c;&#x5185;&#x5b58;&#x6ea2;&#x51fa;&#x8fa8;&#x6790;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="JDK&#x4e3a;&#x6211;&#x4eec;&#x63d0;&#x4f9b;&#x7684;&#x5de5;&#x5177;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e86;&#x89e3;MAT"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1388115662" MODIFIED="1557728889538" TEXT="3&#x3001;JVM&#x7684;&#x6267;&#x884c;&#x5b50;&#x7cfb;&#x7edf;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Class&#x7c7b;&#x6587;&#x4ef6;&#x672c;&#x8d28;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Class&#x6587;&#x4ef6;&#x683c;&#x5f0f;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5b57;&#x8282;&#x7801;&#x6307;&#x4ee4;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1034515770" MODIFIED="1557728889538" TEXT="&#x7c7b;&#x52a0;&#x8f7d;&#x673a;&#x5236;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x52a0;&#x8f7d;&#x8fc7;&#x7a0b;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_547785548" MODIFIED="1557728889537" TEXT="&#x7c7b;&#x52a0;&#x8f7d;&#x5668;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x81ea;&#x5b9a;&#x4e49;&#x7c7b;&#x52a0;&#x8f7d;&#x5bf9;&#x7c7b;&#x8fdb;&#x884c;&#x52a0;&#x5bc6;&#x548c;&#x89e3;&#x5bc6;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7cfb;&#x7edf;&#x7684;&#x7c7b;&#x52a0;&#x8f7d;&#x5668;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x53cc;&#x4eb2;&#x59d4;&#x6d3e;&#x6a21;&#x578b;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Tomcat&#x7c7b;&#x52a0;&#x8f7d;&#x673a;&#x5236;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6808;&#x6862;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x65b9;&#x6cd5;&#x8c03;&#x7528;&#x8be6;&#x89e3;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_118009468" MODIFIED="1557728889538" TEXT="&#x57fa;&#x4e8e;&#x6808;&#x7684;&#x5b57;&#x8282;&#x7801;&#x89e3;&#x91ca;&#x6267;&#x884c;&#x5f15;&#x64ce;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x57fa;&#x4e8e;&#x6808;&#x7684;&#x6307;&#x4ee4;&#x96c6;&#x4e0e;&#x57fa;&#x4e8e;&#x5bc4;&#x5b58;&#x5668;&#x7684;&#x6307;&#x4ee4;&#x96c6;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5206;&#x6790;&#x4ee3;&#x7801;&#x5728;&#x865a;&#x62df;&#x673a;&#x4e2d;&#x7684;&#x6267;&#x884c;&#x60c5;&#x51b5;"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1076047744" MODIFIED="1557741062483" TEXT="4&#x3001;&#x7f16;&#x5199;&#x9ad8;&#x6548;&#x4f18;&#x96c5;Java&#x7a0b;&#x5e8f;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6784;&#x9020;&#x5668;&#x53c2;&#x6570;&#x592a;&#x591a;&#x600e;&#x4e48;&#x529e;&#xff1f;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e0d;&#x9700;&#x8981;&#x5b9e;&#x4f8b;&#x5316;&#x7684;&#x7c7b;&#x5e94;&#x8be5;&#x6784;&#x9020;&#x5668;&#x79c1;&#x6709;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e0d;&#x8981;&#x521b;&#x5efa;&#x4e0d;&#x5fc5;&#x8981;&#x7684;&#x5bf9;&#x8c61;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x907f;&#x514d;&#x4f7f;&#x7528;&#x7ec8;&#x7ed3;&#x65b9;&#x6cd5;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4f7f;&#x7c7b;&#x548c;&#x6210;&#x5458;&#x7684;&#x53ef;&#x8bbf;&#x95ee;&#x6027;&#x6700;&#x5c0f;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4f7f;&#x53ef;&#x53d8;&#x6027;&#x6700;&#x5c0f;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4f18;&#x5148;&#x4f7f;&#x7528;&#x590d;&#x5408;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x63a5;&#x53e3;&#x4f18;&#x4e8e;&#x62bd;&#x8c61;&#x7c7b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x53ef;&#x53d8;&#x53c2;&#x6570;&#x8981;&#x8c28;&#x614e;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x8fd4;&#x56de;&#x96f6;&#x957f;&#x5ea6;&#x7684;&#x6570;&#x7ec4;&#x6216;&#x96c6;&#x5408;&#xff0c;&#x4e0d;&#x8981;&#x8fd4;&#x56de;null"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4f18;&#x5148;&#x4f7f;&#x7528;&#x6807;&#x51c6;&#x7684;&#x5f02;&#x5e38;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7528;&#x679a;&#x4e3e;&#x4ee3;&#x66ff;int&#x5e38;&#x91cf;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5c06;&#x5c40;&#x90e8;&#x53d8;&#x91cf;&#x7684;&#x4f5c;&#x7528;&#x57df;&#x6700;&#x5c0f;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7cbe;&#x786e;&#x8ba1;&#x7b97;&#xff0c;&#x907f;&#x514d;&#x4f7f;&#x7528;float&#x548c;double"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5f53;&#x5fc3;&#x5b57;&#x7b26;&#x4e32;&#x8fde;&#x63a5;&#x7684;&#x6027;&#x80fd;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1809370576" MODIFIED="1557741067836" TEXT="5&#x3001;&#x6df1;&#x5165;&#x4e86;&#x89e3;&#x6027;&#x80fd;&#x4f18;&#x5316;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1931698368" MODIFIED="1557728889540" TEXT="&#x5e38;&#x7528;&#x7684;&#x6027;&#x80fd;&#x8bc4;&#x4ef7;/&#x6d4b;&#x8bd5;&#x6307;&#x6807;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x54cd;&#x5e94;&#x65f6;&#x95f4;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e76;&#x53d1;&#x6570;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x541e;&#x5410;&#x91cf;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x76f8;&#x4e92;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x7cfb;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1310553903" MODIFIED="1557728889540" TEXT="&#x5e38;&#x7528;&#x7684;&#x6027;&#x80fd;&#x4f18;&#x5316;&#x624b;&#x6bb5;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x603b;&#x539f;&#x5219;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x524d;&#x7aef;&#x4f18;&#x5316;&#x624b;&#x6bb5;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e94;&#x7528;&#x670d;&#x52a1;&#x6027;&#x80fd;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5b58;&#x50a8;&#x6027;&#x80fd;&#x4f18;&#x5316;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1700474972" MODIFIED="1557728889542" TEXT="&#x8be6;&#x7ec6;&#x4e86;&#x89e3;&#x5e94;&#x7528;&#x670d;&#x52a1;&#x6027;&#x80fd;&#x4f18;&#x5316;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1570573964" MODIFIED="1557728889541" TEXT="&#x7f13;&#x5b58;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7f13;&#x5b58;&#x7684;&#x57fa;&#x672c;&#x539f;&#x7406;&#x548c;&#x672c;&#x8d28;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5408;&#x7406;&#x4f7f;&#x7528;&#x7f13;&#x51b2;&#x7684;&#x51c6;&#x5219;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x7f13;&#x5b58;&#x4e0e;&#x4e00;&#x81f4;&#x6027;&#x54c8;&#x5e0c;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x96c6;&#x7fa4;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_414263484" MODIFIED="1557728889541" TEXT="&#x5f02;&#x6b65;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x540c;&#x6b65;&#x548c;&#x5f02;&#x6b65;&#xff0c;&#x963b;&#x585e;&#x548c;&#x975e;&#x963b;&#x585e;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e38;&#x89c1;&#x5f02;&#x6b65;&#x7684;&#x624b;&#x6bb5;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_930619443" MODIFIED="1557728889542" TEXT="&#x5e94;&#x7528;&#x76f8;&#x5173;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4ee3;&#x7801;&#x7ea7;&#x522b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e76;&#x53d1;&#x7f16;&#x7a0b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x8d44;&#x6e90;&#x7684;&#x590d;&#x7528;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_548744039" MODIFIED="1557728889541" TEXT="JVM">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e0e;JIT&#x7f16;&#x8bd1;&#x5668;&#x76f8;&#x5173;&#x7684;&#x4f18;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="GC&#x8c03;&#x4f18;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="JVM&#x8c03;&#x4f18;&#x5b9e;&#x6218;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1524605550" MODIFIED="1557740990651" TEXT="&#x7f51;&#x7edc;&#x7f16;&#x7a0b;&#x4e0e;&#x9ad8;&#x6548;IO">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_766485547" MODIFIED="1557728889547" TEXT="&#x7f51;&#x7edc;&#x534f;&#x8bae;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1572281128" MODIFIED="1557728889544" TEXT="&#x7f51;&#x7edc;&#x6a21;&#x578b;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="OSI&#x4e03;&#x5c42;&#x6a21;&#x578b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="TCP/IP&#x6a21;&#x578b;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_372505198" MODIFIED="1557728889544" TEXT="TCP">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e09;&#x6b21;&#x63e1;&#x624b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x56db;&#x6b21;&#x6325;&#x624b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7f13;&#x51b2;&#x533a;/&#x6ed1;&#x52a8;&#x7a97;&#x53e3;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1590940202" MODIFIED="1557728889545" TEXT="UDP">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="DatagramSocket"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="DatagramPacket"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_242984436" MODIFIED="1557728889545" TEXT="HTTP">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="HTTP &#x534f;&#x8bae;&#x62a5;&#x6587;&#x7ed3;&#x6784;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e00;&#x6b21;&#x5b8c;&#x6574;http&#x8bf7;&#x6c42;&#x7684;7&#x4e2a;&#x8fc7;&#x7a0b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="HTTP&#x8bf7;&#x6c42;&#x7684;&#x4f20;&#x8f93;&#x8fc7;&#x7a0b;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_388095346" MODIFIED="1557728889547" TEXT="&#x539f;&#x751f;JDK&#x7f51;&#x7edc;&#x7f16;&#x7a0b;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1258425911" MODIFIED="1557728889546" TEXT="BIO&#x7f16;&#x7a0b;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="ServerSocket"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Socket"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1245420712" MODIFIED="1557728889546" TEXT="NIO&#x7f16;&#x7a0b;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Reactor&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="NIO&#x91cd;&#x8981;&#x6982;&#x5ff5;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Buffer&#x8fa8;&#x6790;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1935473849" MODIFIED="1557728889550" TEXT="1&#x3001;Netty&#x5e94;&#x7528;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Netty&#x662f;&#x4ec0;&#x4e48;&#xff1f;&#x4e3a;&#x4ec0;&#x4e48;&#x8981;&#x7528;Netty&#xff1f;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1138622363" MODIFIED="1557728889548" TEXT="&#x7b2c;&#x4e00;&#x4e2a;Netty&#x7a0b;&#x5e8f;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Netty&#x6838;&#x5fc3;&#x7ec4;&#x4ef6;&#x521d;&#x6b65;&#x4e86;&#x89e3;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Hello&#xff0c;Netty"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1089272206" MODIFIED="1557728889549" TEXT="Netty&#x7ec4;&#x4ef6;&#x518d;&#x4e86;&#x89e3;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Channel&#x3001;EventLoop &#x548c;ChannelFuture"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="ChannelHandler &#x548c;ChannelPipeline"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5185;&#x7f6e;&#x901a;&#x4fe1;&#x4f20;&#x8f93;&#x6a21;&#x5f0f;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="ByteBuf"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x89e3;&#x51b3;&#x7c98;&#x5305;&#xff0c;&#x534a;&#x5305;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1166071480" MODIFIED="1557728889549" TEXT="&#x7f16;&#x89e3;&#x7801;&#x5668;&#x6846;&#x67b6;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5b9e;&#x73b0;&#x57fa;&#x4e8e;Netty&#x7684;Web&#x670d;&#x52a1;&#x5668;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e8f;&#x5217;&#x5316;&#x95ee;&#x9898;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5355;&#x5143;&#x6d4b;&#x8bd5;"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_966717291" MODIFIED="1557728889554" TEXT="2&#x3001;Netty&#x8fdb;&#x9636;&#x548c;&#x5b9e;&#x6218;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_398965139" MODIFIED="1557728889551" TEXT="&#x5b9e;&#x73b0;UDP&#x901a;&#x4fe1;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_124576677" MODIFIED="1557728889550" TEXT="&#x5b9e;&#x73b0;UDP&#x901a;&#x4fe1;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5355;&#x64ad;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5e7f;&#x64ad;"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1098686176" MODIFIED="1557728889552" TEXT="&#x670d;&#x52a1;&#x5668;&#x63a8;&#x9001;&#x6280;&#x672f;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x77ed;&#x8f6e;&#x8be2;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1178596635" MODIFIED="1557728889551" TEXT="Comet">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Servlet&#x5f02;&#x6b65;&#x4efb;&#x52a1;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x670d;&#x52a1;&#x5668;&#x63a8;&#x6a21;&#x578b;SSE"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_981987350" MODIFIED="1557728889553" TEXT="WebSocket&#x901a;&#x4fe1;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6982;&#x5ff5;&#x548c;&#x539f;&#x7406;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5fae;&#x4fe1;&#x98ce;&#x683c;&#x57fa;&#x4e8e;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_54073765" MODIFIED="1557728889552" TEXT="STOMP&#x7684;SpringBoot">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x7fa4;&#x804a;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x4e00;&#x5bf9;&#x4e00;&#x804a;&#x5929;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="SpringBoot&#x548c;WebSocket&#x7684;&#x96c6;&#x6210;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x57fa;&#x4e8e;Netty"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1703060439" MODIFIED="1557728889554" TEXT="&#x5b9e;&#x73b0;&#x81ea;&#x5df1;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x57fa;&#x4e8e;Netty&#x7684;NIO&#x901a;&#x4fe1;&#x6846;&#x67b6;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x63d0;&#x4f9b;&#x9ad8;&#x6027;&#x80fd;&#x7684;&#x5f02;&#x6b65;&#x901a;&#x4fe1;&#x80fd;&#x529b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5b9e;&#x73b0;POJO&#x7684;&#x5e8f;&#x5217;&#x5316;&#x548c;&#x53cd;&#x5e8f;&#x5217;&#x5316;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x57fa;&#x4e8e;IP&#x5730;&#x5740;&#x7684;&#x767d;&#x540d;&#x5355;&#x63a5;&#x5165;&#x8ba4;&#x8bc1;&#x673a;&#x5236;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x94fe;&#x8def;&#x7684;&#x6709;&#x6548;&#x6027;&#x6821;&#x9a8c;&#x673a;&#x5236;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x94fe;&#x8def;&#x7684;&#x65ad;&#x8fde;&#x91cd;&#x8fde;&#x673a;&#x5236;"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1026410454" MODIFIED="1557728889555" TEXT="3&#x3001;Netty&#x6e90;&#x7801;&#x5206;&#x6790;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5f15;&#x5bfc;&#x8fc7;&#x7a0b;&#x5206;&#x6790;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="EventLoop&#x548c;EventLoopGroup&#x5206;&#x6790;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x8fde;&#x63a5;&#x4e8b;&#x4ef6;&#x5206;&#x6790;OP_ACCEPT"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5206;&#x6790;&#x8bfb;&#x4e8b;&#x4ef6;OP_READ"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5206;&#x6790;&#x5199;&#x6570;&#x636e;&#x548c;&#x5904;&#x7406;&#x5199;&#x4e8b;&#x4ef6;OP_WRITE"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x5206;&#x6790;&#x5ba2;&#x6237;&#x7aef;&#x8fde;&#x63a5;&#x548c;&#x8fde;&#x63a5;&#x4e8b;&#x4ef6;OP_CONNECT"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_914557750" MODIFIED="1557728889566" TEXT="Tomcat&#x7cfb;&#x7edf;&#x8fdb;&#x9636;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1039388807" MODIFIED="1557728889563" TEXT="1&#xff0c;&#x76ee;&#x5f55;&#x7ed3;&#x6784;">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_848579988" MODIFIED="1557728889556" TEXT="&#x914d;&#x7f6e;&#x6587;&#x4ef6;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="server.xml"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="web.xml"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="context.xml"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="catalina.policy"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1605903895" MODIFIED="1557728889556" TEXT="lib">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="tomcat-xxx.jar"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="servlet.jar"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1498602079" MODIFIED="1557728889557" TEXT="logs">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="localhost-xxx.log"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="catalina-xxx.log"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1713969091" MODIFIED="1557728889563" TEXT="webapps">
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1512269566" MODIFIED="1557728889562" TEXT="&#x663e;&#x5f0f;&#x90e8;&#x7f72;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6dfb;&#x52a0;context&#x5143;&#x7d20;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x521b;&#x5efa;xml&#x6587;&#x4ef6;"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x9690;&#x5f0f;&#x90e8;&#x7f72;"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_272969128" MODIFIED="1557728889564" TEXT="2&#xff0c;&#x5bb9;&#x5668;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Engine"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Pipeline"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="AccessLog"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Realm"/>
+</node>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="3&#xff0c;Jasper&#x89e3;&#x6790;&#x5668;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_464505801" MODIFIED="1557728889564" TEXT="4&#xff0c;Connector&#x8fde;&#x63a5;&#x5668;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Endpoint"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Processor"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="CoyoteAdapter"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="Mapper"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1069415028" MODIFIED="1557728889564" TEXT="5&#xff0c;&#x7ebf;&#x7a0b;&#x6a21;&#x578b;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x963b;&#x585e;&#x5f0f;(BIO)"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x975e;&#x963b;&#x585e;&#x5f0f;(NIO)"/>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_4648120" MODIFIED="1557728889565" TEXT="6&#xff0c;&#x6e90;&#x7801;&#x89e3;&#x8bfb;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6e90;&#x7801;&#x73af;&#x5883;&#x642d;&#x5efa;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6e90;&#x7801;&#x67b6;&#x6784;&#x5206;&#x6790;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x6838;&#x5fc3;&#x7ec4;&#x4ef6;&#x5206;&#x6790;"/>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_1438345657" MODIFIED="1557728889565" TEXT="&#x6e90;&#x7801;&#x8c03;&#x8bd5;">
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x8c03;&#x8bd5;&#x542f;&#x52a8;&#x6d41;&#x7a0b;"/>
+<node CREATED="1557728005279" MODIFIED="1557728005279" TEXT="&#x8c03;&#x8bd5;&#x751f;&#x547d;&#x5468;&#x671f;&#x7684;&#x7ba1;&#x7406;"/>
+</node>
+</node>
+<node CREATED="1557728005279" FOLDED="true" ID="ID_606934179" MODIFIED="1557728889566" TEXT="7&#xff0c;&#x5d4c;&#x5165;&#x5f0f;Tomcat">
+<node CREATED="1557728005279" ID="ID_3f61a38630cd458dbccc6b6ca1055bd0" MODIFIED="1557728005279" TEXT="Tomcat&#x7684;API"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Tomcat&#x7684;Maven&#x63d2;&#x4ef6;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x624b;&#x5199;&#x5d4c;&#x5165;&#x5f0f;Tomcat"/>
+</node>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="8&#xff0c;Tomcat&#x4f18;&#x5316;&#x5b9e;&#x6218;"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_154284156" MODIFIED="1557728889575" TEXT="Mysql&#x6df1;&#x5ea6;&#x4f18;&#x5316;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="1&#xff0c;Mysql&#x903b;&#x8f91;&#x67b6;&#x6784;&#x5165;&#x95e8;&#x4ecb;&#x7ecd;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1995368084" MODIFIED="1557728889567" TEXT="2&#xff0c;&#x5b58;&#x50a8;&#x5f15;&#x64ce;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="MyISAM"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Innodb"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Archive"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Memory"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Federated"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_415134471" MODIFIED="1557728889570" TEXT="3&#xff0c;&#x4e1a;&#x52a1;&#x8bbe;&#x8ba1;">
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1421639114" MODIFIED="1557728889568" TEXT="&#x9501;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x9501;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5171;&#x4eab;&#x9501;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6392;&#x5b83;&#x9501;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_706824833" MODIFIED="1557728889567" TEXT="&#x5b58;&#x50a8;&#x5f15;&#x64ce;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="InnoDB"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="MyISAM"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1287803343" MODIFIED="1557728889567" TEXT="&#x903b;&#x8f91;&#x7ed3;&#x6784;&#x4fee;&#x6539;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x9501;&#x8868;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_61961100" MODIFIED="1557728889567" TEXT="&#x89e3;&#x51b3;&#x529e;&#x6cd5;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x89e3;&#x51b3;&#x601d;&#x8def;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="pt-online-schema-change"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_210665853" MODIFIED="1557728889569" TEXT="&#x4e8b;&#x52a1;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4ec0;&#x4e48;&#x53eb;&#x4e8b;&#x52a1;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_42200934" MODIFIED="1557728889568" TEXT="&#x7279;&#x6027;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x539f;&#x5b50;&#x6027;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4e00;&#x81f4;&#x6027;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x9694;&#x79bb;&#x6027;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6301;&#x4e45;&#x6027;"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1826229063" MODIFIED="1557728889569" TEXT="&#x9694;&#x79bb;&#x6027;&#x7ea7;&#x522b;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x672a;&#x63d0;&#x4ea4;&#x8bfb;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4ee5;&#x63d0;&#x4ea4;&#x8bfb;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x53ef;&#x91cd;&#x590d;&#x8bfb;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x53ef;&#x4e32;&#x884c;&#x5316;"/>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_458151155" MODIFIED="1557728889569" TEXT="&#x903b;&#x8f91;&#x8bbe;&#x8ba1;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8303;&#x5f0f;&#x8bbe;&#x8ba1;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x53cd;&#x8303;&#x5f0f;&#x8bbe;&#x8ba1;"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1235978574" MODIFIED="1557728889570" TEXT="&#x7269;&#x7406;&#x8bbe;&#x8ba1;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x547d;&#x540d;&#x89c4;&#x8303;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5b58;&#x50a8;&#x5f15;&#x64ce;&#x9009;&#x62e9;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6570;&#x636e;&#x7c7b;&#x578b;&#x9009;&#x62e9;"/>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1478349634" MODIFIED="1557728889574" TEXT="4&#xff0c;&#x67e5;&#x8be2;&#x4ee5;&#x53ca;&#x7d22;&#x5f15;">
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1502782789" MODIFIED="1557728889571" TEXT="&#x6162;&#x67e5;&#x8be2;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6162;&#x67e5;&#x8be2;&#x914d;&#x7f6e;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_729072727" MODIFIED="1557728889570" TEXT="&#x6162;&#x67e5;&#x8be2;&#x5206;&#x6790;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="mysqldumpslow"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="pt-query-digest"/>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_628077042" MODIFIED="1557728889572" TEXT="&#x7d22;&#x5f15;">
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1308625626" MODIFIED="1557728889571" TEXT="&#x7d22;&#x5f15;&#x662f;&#x4ec0;&#x4e48;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x7d22;&#x5f15;&#x7684;&#x4f5c;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="BTree&#x4e0e;B+Tree"/>
+</node>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4f18;&#x7f3a;&#x70b9;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1865452213" MODIFIED="1557728889571" TEXT="&#x5206;&#x7c7b;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5355;&#x503c;&#x7d22;&#x5f15;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x552f;&#x4e00;&#x7d22;&#x5f15;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x590d;&#x5408;&#x7d22;&#x5f15;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5168;&#x6587;&#x7d22;&#x5f15;"/>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1721539282" MODIFIED="1557728889571" TEXT="&#x8bed;&#x6cd5;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x521b;&#x5efa;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5220;&#x9664;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x67e5;&#x770b;"/>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1294922080" MODIFIED="1557728889573" TEXT="&#x6267;&#x884c;&#x8ba1;&#x5212;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4ec0;&#x4e48;&#x662f;&#x6267;&#x884c;&#x8ba1;&#x5212;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_748841907" MODIFIED="1557728889572" TEXT="&#x5177;&#x4f53;&#x4f5c;&#x7528;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8868;&#x7684;&#x8bfb;&#x53d6;&#x987a;&#x5e8f;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6570;&#x636e;&#x8bfb;&#x53d6;&#x64cd;&#x4f5c;&#x7684;&#x64cd;&#x4f5c;&#x7c7b;&#x578b;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x54ea;&#x4e9b;&#x7d22;&#x5f15;&#x53ef;&#x4ee5;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x54ea;&#x4e9b;&#x7d22;&#x5f15;&#x88ab;&#x5b9e;&#x9645;&#x4f7f;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8868;&#x4e4b;&#x95f4;&#x7684;&#x5f15;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6bcf;&#x5f20;&#x8868;&#x6709;&#x591a;&#x5c11;&#x884c;&#x88ab;&#x4f18;&#x5316;&#x5668;&#x67e5;&#x8be2;"/>
+</node>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8bed;&#x6cd5;"/>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1165560288" MODIFIED="1557728889573" TEXT="&#x5b57;&#x6bb5;&#x8be6;&#x89e3;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="id"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="select_type"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="table"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="type"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="possible_keys"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="key"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="key_len"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="ref"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="rows"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Extra"/>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1632427004" MODIFIED="1557728889574" TEXT="Sql&#x4f18;&#x5316;">
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1416923679" MODIFIED="1557728889573" TEXT="&#x7b56;&#x7565;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5c3d;&#x91cf;&#x5168;&#x503c;&#x5339;&#x914d;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6700;&#x4f73;&#x5de6;&#x524d;&#x7f00;&#x6cd5;&#x5219;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4e0d;&#x5728;&#x7d22;&#x5f15;&#x5217;&#x4e0a;&#x505a;&#x4efb;&#x4f55;&#x64cd;&#x4f5c;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8303;&#x56f4;&#x6761;&#x4ef6;&#x653e;&#x6700;&#x540e;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x8986;&#x76d6;&#x7d22;&#x5f15;&#x5c3d;&#x91cf;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x4e0d;&#x7b49;&#x4e8e;&#x8981;&#x751a;&#x7528;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Null/Not &#x6709;&#x5f71;&#x54cd;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Like&#x67e5;&#x8be2;&#x8981;&#x5f53;&#x5fc3;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x5b57;&#x7b26;&#x7c7b;&#x578b;&#x52a0;&#x5f15;&#x53f7;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="OR&#x6539;UNION&#x6548;&#x7387;&#x9ad8;"/>
+</node>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x603b;&#x7ed3;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="&#x6279;&#x91cf;&#x5bfc;&#x5165;"/>
+</node>
+</node>
+</node>
+<node CREATED="1557728005280" FOLDED="true" ID="ID_1558543591" MODIFIED="1557728889575" TEXT="Linux&#x57fa;&#x7840;&#x4e0e;&#x8fdb;&#x9636;">
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Linux&#x5165;&#x95e8;&#x5b89;&#x88c5;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Linux&#x6ce8;&#x610f;&#x4e8b;&#x9879;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Linux&#x57fa;&#x7840;&#x6307;&#x4ee4;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Linux Jdk1.8&#x73af;&#x5883;&#x5b89;&#x88c5;&#x53ca;&#x64cd;&#x4f5c;&#x6307;&#x4ee4;"/>
+<node CREATED="1557728005280" MODIFIED="1557728005280" TEXT="Linux Tomcat&#x5b89;&#x88c5;&#x4e0e;&#x505c;&#x542f;"/>
+</node>
+<node CREATED="1557728005280" ID="ID_6dae61fbfc4e3359b33ef1d35b850703" MODIFIED="1557728005280" TEXT="&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;&#x5b9e;&#x6218;"/>
+</node>
+</node>
 </map>
