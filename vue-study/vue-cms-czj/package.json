@@ -31,6 +31,7 @@
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6",
+	"vue-resource": "^1.5.1",
     "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
