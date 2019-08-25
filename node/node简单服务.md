@@ -27,6 +27,12 @@
    		console.log("url - " + req.url);
    		//获取参数param
    		console.log("param - " + params.param);
+   		   //设置允许跨域的域名，*代表允许任意域名跨域
+   	   res.setHeader("Access-Control-Allow-Origin","http://www.zhangpeiyue.com");
+   	   //允许的header类型
+   	   res.setHeader("Access-Control-Allow-Headers","content-type");
+   	   //跨域允许的请求方式 
+   	   res.setHeader("Access-Control-Allow-Methods","DELETE,PUT,POST,GET,OPTIONS");
    		if(params.param == "html"){
    			  var ht = "<!DOCTYPE html>" +
    				"<html lang='zh-CN'>" +
@@ -72,7 +78,7 @@
    	server.listen(3000, function () {
    	  console.log('服务器启动成功，可以访问了。。。')
    	})
-   	
+
     
 
 3. node 文本名启动服务
