@@ -7,3 +7,5 @@ Ctrl + / 添加关闭行注释
 Shift + Alt +A 块区域注释
 Ctrl+Shift+W 关闭编辑器
 Shift + Alt up/down 在当前行上下复制当前行
+
+Ctrl+P窗口下还可以直接输入文件名，快速打开文件 
