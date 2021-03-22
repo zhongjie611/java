@@ -6,6 +6,8 @@ Ctrl+D 复制行 
 Ctrl＋Shift＋Backspace可以跳转到上次编辑的地 
 CTRL+ALT+ left/right 前后导航编辑过的地方 
 
+Ctrl + Shift + Enter IDEA自动补全当前语句的分号
+
 Alt + Enter 自动新增未定义方法
 
 1. -----------自动代码-------- 

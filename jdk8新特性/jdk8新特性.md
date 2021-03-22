@@ -306,7 +306,7 @@ System.out.println(hexList);// [3e8, 7d0, bb8]
 
 ```java
 // 类的静态方法引用
-List<String> hexList = CollectionUtil.convert(list, Integer::toHexString;
+List<String> hexList = CollectionUtil.convert(list, Integer::toHexString);
 System.out.println(hexList);// [3e8, 7d0, bb8]
 ```
 
